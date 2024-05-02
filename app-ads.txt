@@ -6400,3 +6400,39 @@ adform.com, 3167, RESELLER, 9f5210a2f0999e32
 zmaticoo.com,5135655,RESELLER
 adyoulike.com,7463c359225e043c111036d7a29affa5,RESELLER
 waardex.com, 212169, DIRECT
+smaato.com, 1100056654, DIRECT, 07bcf65f187117b4
+addigi.media, 176543349, RESELLER
+vimay.exchange, X369, RESELLER
+my-cast.tv, 986754, RESELLER
+pubmatic.com, 164570, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164571, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 26468, RESELLER, 0bfd66d529a55807
+e-planning.net, 393519737956f8ae, RESELLER, c1ba615865ed87b2
+orangeclickmedia.com, C-1181, RESELLER
+adops.gr, 5dc9453d3bd607ed586d1d9879579f81, RESELLER
+themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
+video.unrulymedia.com, 436431924, RESELLER
+improvedigital.com, 2423, RESELLER
+opera.com, pub10858417946048, RESELLER, 55a0c5fd61378de3
+improvedigital.com, 2385, RESELLER
+inmobi.com, 95ef2003a2c742db81a45303d6e4cf8b, RESELLER, 83e75a7ae333ca9d
+rubiconproject.com, 26324, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 1244444110, RESELLER, 6f752381ad5ec0e5
+onetag.com, 894a3f52ea9e6d4, RESELLER
+media.net, 8CUH5VF7J, RESELLER
+contextweb.com, 563306, RESELLER, 89ff185a4c4e857c
+richaudience.com, oihA0dMl5o, RESELLER
+consumable.com, 2001454, RESELLER, aefcd3d2f45b5070
+contextweb.com, 563266, RESELLER, 89ff185a4c4e857c
+appnexus.com, 15941, RESELLER
+conversantmedia.com, 100683, RESELLER, 03113cd04947736d
+aniview.com, 656734f0ab76c394a701ccd7, RESELLER, 78b21b97965ec3f8
+freewheel.tv, 1605876, RESELLER
+smartadserver.com, 4871, RESELLER, 060d053dcf45cbf3
+152media.info, 152M896, RESELLER
+improvedigital.com, 1479, RESELLER
+datacygnal.io, 201197, RESELLER
+pubmatic.com, 157530, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 23048, RESELLER, 0bfd66d529a55807
+openx.com, 560716205, RESELLER, 6a698e2ec38604c6
+appnexus.com, 8610, RESELLER, f5ab79cb980f11d1
