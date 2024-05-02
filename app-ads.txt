@@ -6399,3 +6399,4 @@ yeahmobi.com,111110,RESELLER
 adform.com, 3167, RESELLER, 9f5210a2f0999e32
 zmaticoo.com,5135655,RESELLER
 adyoulike.com,7463c359225e043c111036d7a29affa5,RESELLER
+waardex.com, 212169, DIRECT
