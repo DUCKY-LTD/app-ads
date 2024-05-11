@@ -6438,3 +6438,4 @@ openx.com, 560716205, RESELLER, 6a698e2ec38604c6
 appnexus.com, 8610, RESELLER, f5ab79cb980f11d1
 amitydigital.io, 462, RESELLER
 appnexus.com, 12840, RESELLER, f5ab79cb980f11d1
+risecodes.com, 662a26f1f3d42a00015ffbad, RESELLER
