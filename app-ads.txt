@@ -6638,3 +6638,13 @@ pubnative.net,1009046,RESELLER,d641df8625486a7b
 rubiconproject.com,25978,RESELLER,0bfd66d529a55807
 rubiconproject.com,26310,RESELLER,0bfd66d529a55807
 webeyemob.com,80010,RESELLER
+conversantmedia.com, 100704, RESELLER, 03113cd04947736d
+conversantmedia.com, 100658, RESELLER, 03113cd04947736d
+conversantmedia.com, 100660, RESELLER, 03113cd04947736d
+conversantmedia.com, 100661, RESELLER, 03113cd04947736d
+conversantmedia.com, 100662, RESELLER, 03113cd04947736d
+conversantmedia.com, 100663, RESELLER, 03113cd04947736d
+conversantmedia.com, 100670, RESELLER, 03113cd04947736d
+conversantmedia.com, 100671, RESELLER, 03113cd04947736d
+conversantmedia.com, 100672, RESELLER, 03113cd04947736d
+conversantmedia.com, 100677, RESELLER, 03113cd04947736d
