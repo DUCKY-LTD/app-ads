@@ -6628,3 +6628,13 @@ rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
 emittenteeditoriale.it, AJxF6R130a9M6CaTvK, RESELLER
 digitalbloom.it, AJxF6R130a9M6CaTvK, RESELLER
 adform.com, 3164, RESELLER
+appnexus.com,15670,RESELLER,f5ab79cb980f11d1
+conversantmedia.com,100358,RESELLER,03113cd04947736d
+krushmedia.com,AJxF6R585a9M6CaTvK,RESELLER
+lijit.com,512908,RESELLER,fafdf38b16bf6b2b
+olaex.biz,100008,RESELLER
+outbrain.com,0023749a2264ea0429a71b54ac9ca0de9a,RESELLER
+pubnative.net,1009046,RESELLER,d641df8625486a7b
+rubiconproject.com,25978,RESELLER,0bfd66d529a55807
+rubiconproject.com,26310,RESELLER,0bfd66d529a55807
+webeyemob.com,80010,RESELLER
