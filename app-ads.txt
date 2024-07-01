@@ -6682,3 +6682,31 @@ adswizz.com, entravision, RESELLER
 blueseasx.com, 203620, RESELLER, 7998eac5087f6110
 outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
 bigo.sg, 196, RESELLER
+e-planning.net,45845eaf076148f9,RESELLER,c1ba615865ed87b2
+dmanmedia.com, 2029, RESELLER
+krushmedia.com, AJxF6R616a9M6CaTvK, RESELLER
+freewheel.tv,1522514,RESELLER
+Media.net, 8CUT87EOU, RESELLER
+inmobi.com,758e432765224cf2852ed7e0ff5b35e7,RESELLER,83e75a7ae333ca9d
+lijit.com, 245697, DIRECT, fafdf38b16bf6b2b
+freewheel.tv,1522338,RESELLER
+digimedllc.com, T3CuGr616nI3eQCxtp, RESELLER
+152media.info,152M949,RESELLER
+aceex.io, 1830, RESELLER, b1cf3c874d5c6682
+improvedigital.com, 2424, RESELLER 
+themediagrid.com, HIFRLS, RESELLER, 35d5010d7789b49d
+improvedigital.com, 2424, RESELLER
+themediasense.com, 1092, RESELLER
+risecodes.com, 6672c1d53c1ca20001f46c29, RESELLER 
+houseofpubs.com, 222209, RESELLER
+zetaglobal.net, 898, RESELLER
+supply.colossusssp.com, 698, RESELLER, 6c5b49d96ec1b458
+admanmedia.com, 1040, RESELLER
+toponad.com,1662b46ce52452,RESELLER,1d49fe424a1a456d 
+hindsightsolutions.net, 353, RESELLER
+google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0
+sharethrough.com, xogXmUSz, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 162902, RESELLER, 5d62403b186f2ace
+thirdpresence.com, 750839, RESELLER
+Contextweb.com ,562918,RESELLER,89ff185a4c4e857c
+uis.mobfox.com, 1189, RESELLER, 5529a3d1f59865be
