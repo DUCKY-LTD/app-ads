@@ -6710,3 +6710,4 @@ pubmatic.com, 162902, RESELLER, 5d62403b186f2ace
 thirdpresence.com, 750839, RESELLER
 Contextweb.com ,562918,RESELLER,89ff185a4c4e857c
 uis.mobfox.com, 1189, RESELLER, 5529a3d1f59865be
+thebrave.io, 1234724, DIRECT, c25b2154543746ac
