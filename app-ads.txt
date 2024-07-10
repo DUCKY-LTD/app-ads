@@ -6712,3 +6712,7 @@ thirdpresence.com, 750839, RESELLER
 Contextweb.com ,562918,RESELLER,89ff185a4c4e857c
 uis.mobfox.com, 1189, RESELLER, 5529a3d1f59865be
 thebrave.io, 1234724, DIRECT, c25b2154543746ac
+thebrave.io,9840732,RESELLER,c25b2154543746ac
+spinx.biz, 1373698863, RESELLER
+improvedigital.com, 2371, RESELLER
+iion.io, 10162, RESELLER
