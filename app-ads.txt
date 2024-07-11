@@ -680,31 +680,6 @@ bidease.com, exchange-20, RESELLER
 bidence.com, 2a0f035ff1e4192cdf5e76edd58b5a18, RESELLER
 bidence.com, d35302328a4b1f129d376f9c2932b0b7, RESELLER
 bidence.com,d35302328a4b1f129d376f9c2932b0b7,RESELLER
-bidmachine.io, 113, RESELLER
-bidmachine.io, 114, RESELLER
-bidmachine.io, 124, RESELLER
-bidmachine.io, 161, RESELLER
-bidmachine.io, 162, RESELLER
-bidmachine.io, 165, RESELLER
-bidmachine.io, 166, RESELLER
-bidmachine.io, 187, RESELLER
-bidmachine.io, 195, RESELLER
-bidmachine.io, 200, RESELLER
-bidmachine.io, 35, RESELLER
-bidmachine.io, 36, RESELLER
-bidmachine.io, 60, RESELLER
-bidmachine.io, 67, RESELLER
-bidmachine.io, 74, RESELLER
-bidmachine.io, 77, RESELLER
-bidmachine.io, 98, RESELLER
-bidmachine.io,138,RESELLER
-bidmachine.io,35,RESELLER
-bidmachine.io,36,RESELLER
-bidmachine.io,55,RESELLER
-bidmachine.io,59,RESELLER
-bidmachine.io,60,RESELLER
-bidmachine.io,74,RESELLER
-bidmachine.io,77,RESELLER
 bidscube.com, 251, RESELLER
 bigo.sg, 128, RESELLER
 bigo.sg, 130, RESELLER
@@ -3897,8 +3872,6 @@ lijit.com, 245137-eb, RESELLER, fafdf38b16bf6b2b
 loopme.com,11622,RESELLER,6c8d5f95897a5a3b
 admanmedia.com,894,RESELLER
 appnexus.com,13346,RESELLER
-bidmachine.io,114,RESELLER
-bidmachine.io,67,RESELLER
 bigo.sg,130,RESELLER
 contextweb.com,560288,RESELLER,89ff185a4c4e857c
 freewheel.tv,1106497,RESELLER
@@ -4875,10 +4848,6 @@ keenkale.com, 841, RESELLER
 admanmedia.com, 2063, RESELLER
 Adform.com,2742,RESELLER
 Pubmatic.com,162882,RESELLER,5d62403b186f2ace
-bidmachine.io,147,RESELLER
-bidmachine.io,148,RESELLER
-bidmachine.io,189,RESELLER
-bidmachine.io,190,RESELLER
 display.io,173162,RESELLER
 freewheel.tv,1137745,RESELLER
 freewheel.tv,1138513,RESELLER
@@ -5453,7 +5422,6 @@ adingenious.com, 70788, RESELLER
 adingenious.com, 70789, RESELLER
 adingenious.com, 70790, RESELLER
 adingenious.com, 70791, RESELLER
-bidmachine.io,162,RESELLER
 e-planning.net,ec771b05828a67fa,RESELLER,c1ba615865ed87b2
 eskimi.com,2020000207,RESELLER
 google.com,pub-4272971530084173,RESELLER,f08c47fec0942fa0
@@ -5686,9 +5654,6 @@ lunamedia.io, a49272ae78e0ed4beb713268644928f0, RESELLER, 524ecb396915caaf
 tubia.com, 40103, RESELLER
 lemmatechnologies.com, 772, RESELLER, 7829010c5bebd1fb
 start.io, pbn, RESELLER
-bidmachine.io, 55, RESELLER
-bidmachine.io, 59, RESELLER
-bidmachine.io, 138, RESELLER
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270 #Verve
 iqzone.com, d2e0f8e604576d3403d193e3c28b0dcf, RESELLER
 advangelists.com, cedebb6e872f539bef8c3f919874e9d7, RESELLER
