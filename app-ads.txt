@@ -6728,3 +6728,4 @@ video.unrulymedia.com, 158727213, RESELLER
 caerulus.io,3320-72775,RESELLER
 risecodes.com,662a26f1f3d42a00015ffbad,RESELLER
 taurusx.com,70090,RESELLER
+lemmatechnologies.com, 1542, RESELLER, 7829010c5bebd1fb
