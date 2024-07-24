@@ -6743,3 +6743,23 @@ bidmachine.io, 74, RESELLER
 bidmachine.io, 77, RESELLER
 katzdigital.com, 318, RESELLER
 katzdigital.com, 80, RESELLER
+admanmedia.com, 2160, reseller
+iion.io, 12564, reseller
+onetag.com, 89dd525077ba15e, reseller
+sharethrough.com, 249198ac, reseller, d53b998a7bd4ecd2
+appnexus.com, 12039, reseller, f5ab79cb980f11d1
+pubmatic.com, 164778, reseller, 5d62403b186f2ace
+video.unrulymedia.com, 6111915185540403805, reseller
+app-stock.com, 120852, reseller, ed8c126ea5971415
+app-stock.com, 120852, direct, ed8c126ea5971415
+pubmatic.com, 161174, reseller, 5d62403b186f2ace
+krushmedia.com, ajxf6r614a9m6catvk, reseller
+onetag.com, 89211985ede1484, reseller
+playdigo.com, 1992, reseller
+lemmatechnologies.com, 1523, direct, 7829010c5bebd1fb
+insticator.com, f01725e4-53f4-40e0-95bb-c4206ee0b577, reseller, b3511ffcafb23a32
+iion.io, 10154, reseller
+contextweb.com,562930,reseller,89ff185a4c4e857c
+sipo-inc.com, 154641, reseller
+rubiconproject.com,  26476,  reseller,  0bfd66d529a55807
+rubiconproject.com, 26608, reseller, 0bfd66d529a55807
