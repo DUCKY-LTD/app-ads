@@ -6730,3 +6730,16 @@ caerulus.io,3320-72775,RESELLER
 risecodes.com,662a26f1f3d42a00015ffbad,RESELLER
 taurusx.com,70090,RESELLER
 lemmatechnologies.com, 1542, RESELLER, 7829010c5bebd1fb
+adswizz.com, 623, DIRECT
+adswizz.com, 590, RESELLER
+adswizz.com, kriteria, RESELLER
+adswizz.com, 20, RESELLER
+adswizz.com, 318, RESELLER
+adswizz.com, 80, RESELLER
+adswizz.com, 580, RESELLER
+bidmachine.io, 36, RESELLER
+bidmachine.io, 60, RESELLER
+bidmachine.io, 74, RESELLER
+bidmachine.io, 77, RESELLER
+katzdigital.com, 318, RESELLER
+katzdigital.com, 80, RESELLER
