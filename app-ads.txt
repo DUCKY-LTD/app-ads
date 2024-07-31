@@ -6766,3 +6766,4 @@ rubiconproject.com, 26608, reseller, 0bfd66d529a55807
 admedia.com,AM1601,RESELLER,ae6c32151e71f19d
 risecodes.com,6610259a3b0a35000116bdb4,DIRECT
 pubmatic.com,164697,DIRECT,5d62403b186f2ace
+sipo-inc.com,658147,RESELLE
