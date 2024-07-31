@@ -6767,3 +6767,11 @@ admedia.com,AM1601,RESELLER,ae6c32151e71f19d
 risecodes.com,6610259a3b0a35000116bdb4,DIRECT
 pubmatic.com,164697,DIRECT,5d62403b186f2ace
 sipo-inc.com,658147,RESELLE
+adswizz.com,484,DIRECT
+adswizz.com,80,RESELLER
+adswizz.com,318,RESELLER
+adswizz.com,172,RESELLER
+adswizz.com,584,RESELLER
+pubmatic.com, 165207, RESELLER, 5d62403b186f2ace
+mosher.media, 306, RESELLER
+tritondigital.com, 169853, RESELLER, 19b4454d0b87b58b
