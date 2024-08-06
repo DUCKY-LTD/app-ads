@@ -6775,3 +6775,14 @@ adswizz.com,584,RESELLER
 pubmatic.com, 165207, RESELLER, 5d62403b186f2ace
 mosher.media, 306, RESELLER
 tritondigital.com, 169853, RESELLER, 19b4454d0b87b58b
+bidmachine.io,190,RESELLER
+bidmachine.io,148,RESELLER
+sharethrough.com,UbYLkrys,RESELLER,d53b998a7bd4ecd2
+improvedigital.com,2450,RESELLER
+bidmachine.io,189,RESELLER
+improvedigital.com,2451,RESELLER
+webeyemob.com,80609,RESELLER
+bidmachine.io,55,RESELLER
+bidmachine.io,59,RESELLER
+webeyemob.com,70628,RESELLER
+bidmachine.io,147,RESELLER
