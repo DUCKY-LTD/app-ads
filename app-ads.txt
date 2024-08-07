@@ -6787,3 +6787,4 @@ bidmachine.io,59,RESELLER
 webeyemob.com,70628,RESELLER
 bidmachine.io,147,RESELLER
 videoheroes.tv, 212552, RESELLER, 064bc410192443d8
+yandex.com, 95418500, DIRECT
