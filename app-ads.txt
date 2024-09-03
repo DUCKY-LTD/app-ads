@@ -6810,3 +6810,9 @@ zmaticoo.com, 5135704, RESELLER
 improvedigital.com,2451,RESELLER
 sharethrough.com,UbYLkrys,RESELLER,d53b998a7bd4ecd2
 sipo-inc.com,658147,RESELLER
+amxrtb.com, 105199691, RESELLER
+appnexus.com, 14416, RESELLER, f5ab79cb980f11d1
+appnexus.com, 14808, RESELLER, f5ab79cb980f11d1
+onetag.com, 69f48c2160c8113, RESELLER
+smaato.com, 1100055690, DIRECT, 07bcf65f187117b4
+smaato.com, 1100049216, DIRECT, 07bcf65f187117b5
