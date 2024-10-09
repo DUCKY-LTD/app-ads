@@ -7056,3 +7056,13 @@ grouprvn.com, l2i2ri5g21, direct
 yieldmo.com, 3377199372461613093, reseller
 rhebus.works, 8978398251, reseller
 loopme.com, 11531, reseller, 6c8d5f95897a5a3b
+adsyield.com, 1058, DIRECT
+pubmatic.com, 162239, RESELLER, 5d62403b186f2ace
+empower.net, 63cb0332e4b01718f069d4cb, RESELLER
+google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
+adtelligent.com, 758917, DIRECT, 8ce87912eb022a51
+pubmatic.com, 161562, RESELLER, 5d62403b186f2ace
+xandr.com, 1914, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 162718, RESELLER, 5d62403b186f2ace
+adtonos.com, PUB1170773188, RESELLER
+video.unrulymedia.com, 364612689, RESELLER
