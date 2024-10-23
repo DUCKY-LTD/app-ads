@@ -7069,3 +7069,11 @@ pubmatic.com, 162718, RESELLER, 5d62403b186f2ace
 adtonos.com, PUB1170773188, RESELLER
 video.unrulymedia.com, 364612689, RESELLER
 contextweb.com,563521, RESELLER, 89ff185a4c4e857c
+contextweb.com,563521, RESELLER, 89ff185a4c4e857c
+yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, DIRECT
+madex.world, 544b4c02-bccb-47eb-a8c2-0a6be081778b, DIRECT
+screenil.com, 554156, DIRECT
+appnexus.com, 16220, RESELLER, f5ab79cb980f11d1
+onetag.com, 8df8f252fa801e4, RESELLER
+triplelift.com, 13792, RESELLER, 6c33edb13117fd86
+triplelift.com, 13465, RESELLER, 6c33edb13117fd86
