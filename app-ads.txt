@@ -7142,3 +7142,7 @@ triplelift.com,13043,RESELLER,6c33edb13117fd86
 video.unrulymedia.com,906352066,RESELLER
 yieldmo.com,3591550211052216798,RESELLER,6a92c77cfc3d2258
 zetaglobal.net,856,RESELLER
+lijit.com, 292974, RESELLER, fafdf38b16bf6b2b #SOVRN
+smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
+opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
+motorik.io, 100463, RESELLER
