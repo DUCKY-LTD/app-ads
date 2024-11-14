@@ -7242,3 +7242,70 @@ betweendigital.com, 44727, RESELLER
 pubmatic.com,163420, RESELLER, 5d62403b186f2ace
 pubmatic.com,165340, RESELLER, 5d62403b186f2ace
 pubnative.net, 1009485, RESELLER, d641df8625486a7b
+apg.digital, 24241234607, DIRECT, 79540da20c07237e
+iqzone.com,IQ135,RESELLER
+loopme.com,11520,RESELLER,6c8d5f95897a5a3b
+conversantmedia.com,34975,RESELLER,03113cd04947736d
+krushmedia.com, AJxF6R490a9M6CaTvK, RESELLER
+contextweb.com ,562769,RESELLER,89ff185a4c4e857c
+triplelift.com,12913,RESELLER,6c33edb13117fd86
+sharethrough.com,j0nru1gr,RESELLER,d53b998a7bd4ecd2
+appnexus.com,13359,RESELLER,f5ab79cb980f11d1
+video.unrulymedia.com,9085206363819624071,RESELLER
+media.net,8CUT87EOU,RESELLER
+video.unrulymedia.com, 8684225329543494896, RESELLER
+widesound.io, 10010283, RESELLER, 03facf30f100112b
+rubiconproject.com, 25318, RESELLER, 0bfd66d529a55807
+uis.mobfox.com, 1869, RESELLER, 5529a3d1f59865be
+consumable.com, 2001478, RESELLER, aefcd3d2f45b5070
+adswizz.com, consumable, RESELLER
+axonix.com, 59074, RESELLER, bc385f2b4a87b721
+contextweb.com, 562763, RESELLER, 89ff185a4c4e857c
+improvedigital.com, 2210, RESELLER
+leanback.digital, 567824, RESELLER, b1d30350acaf0176
+google.com, pub-7734005103835923, RESELLER, f08c47fec0942fa0
+indexexchange.com, 205285, RESELLER, 50b1c356f2c5c8fc
+admixer.net, 811ebfe8-dec8-415c-aa1f-233c921d9176, RESELLER
+freewheel.tv, 1581157, RESELLER
+freewheel.tv, 1581210, RESELLER
+xapads.com, 165069, RESELLER
+adsyield.com, 1063, RESELLER
+bidscube.com, 1386, RESELLER
+media.net, 8CUL4N1JW, RESELLER
+loopme.com, 11498, RESELLER, 6c8d5f95897a5a3b
+supply.colossusssp.com,610,RESELLER,6c5b49d96ec1b458
+bidstack.com,321667e6-f82d-4be9-b48d-e959de254c35,RESELLER,12fb5e50ae313a16
+video.unrulymedia.com,5336134699710583737,RESELLER
+lijit.com, 245697, RESELLER, fafdf38b16bf6b2b
+smartyads.com, 1156, RESELLER, fd2bde0ff2e62c5d
+digimedllc.com, T3CuGr490nI3eQCxtp, RESELLER
+greedygame.com, 5437386, RESELLER
+selectmedia.asia, 614c3166a299a264fb40b4cb, RESELLER, e365c871a27c655d
+openx.com, 540999880, RESELLER, 6a698e2ec38604c6
+onlinemediasolutions.com, 15801, RESELLER
+getmediamx.com, 1215801, RESELLER
+consumable.com, 2001476, RESELLER, aefcd3d2f45b5070
+mars.media, 1074539, RESELLER , 8624339f102fb076
+smartadserver.com, 4579, RESELLER, 060d053dcf45cbf3
+xapads.com, 140873, RESELLER
+appnexus.com, 13956, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 164016, RESELLER, 5d62403b186f2ace
+contextweb.com, 562807, RESELLER, 89ff185a4c4e857c
+widgets.ai, 1830504, RESELLER
+improvedigital.com, 1341, RESELLER
+adsyield.com,1236, RESELLER
+onetag.com, 8b5db4ef9e6314e, RESELLER
+playdigo.com, 1944, RESELLER, 92011346d63d3c30
+pubmatic.com, 164798, RESELLER, 5d62403b186f2ace
+lijit.com, 503539, RESELLER, fafdf38b16bf6b2b
+mediaverse.ai, 302189174, RESELLER
+rubiconproject.com, 26102, RESELLER
+twist.win, TW2400491, RESELLER
+sharethrough.com, UV5Om7Bc, RESELLER, d53b998a7bd4ecd2
+sovrn.com, 271355, RESELLER, fafdf38b16bf6b2b
+themediagrid.com, R95FED, RESELLER, 35d5010d7789b49d
+conversantmedia.com, 100194, RESELLER, 03113cd04947736d
+Contextweb.com,563318,RESELLER,89ff185a4c4e857c
+Media.net, 8CU47U85L, RESELLER
+inmobi.com, 91df396a555c41b0905dec846265f5d7, RESELLER, 83e75a7ae333ca9d
+loopme.com, 13952, RESELLER, 6c8d5f95897a5a3b
