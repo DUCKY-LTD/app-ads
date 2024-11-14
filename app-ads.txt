@@ -7162,3 +7162,5 @@ pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
 thunder-monetize.com, 1421531493, RESELLER
 risecodes.com, 66fab6981efdb80001a3dadc, RESELLER
 smartclip.net, 13630, RESELLER
+voisetech.com, 1066, RESELLER
+improvedigital.com, 2464, RESELLER
