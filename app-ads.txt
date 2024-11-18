@@ -7352,3 +7352,26 @@ video.unrulymedia.com, 533898005, RESELLER
 dauup.com, 34141, RESELLER
 thebrave.io, 1234746, RESELLER, c25b2154543746ac
 toponad.com, 16719c20554a4f, RESELLER, 1d49fe424a1a456d
+openx.com, 540022851,reseller,6a698e2ec38604c6
+rubiconproject.com, 26800, reseller, 0bfd66d529a55807
+eliteappgrade.com, 494350, reseller
+playdigo.com, 2021, reseller
+carbonatix.com, 176264355, reseller
+inmobi.com, 316c3553aba64585b0667cba515515a9, reseller, 83e75a7ae333ca9d
+app-stock.com , 458952, reseller
+yieldmo.com, 3590879766707642794, reseller
+adform.com, 2845,reseller, 9f5210a2f0999e32
+adwmg.com, 100765, reseller, c9688a22012618e7
+152media.info, 152m939, reseller
+bold-win.com, 165, reseller, 71746737d0bab951
+iqzone.com, iq137, reseller
+rubiconproject.com,26476,reseller,0bfd66d529a55807
+showheroes.com,6875,reseller
+boostappi.com, 10013, reseller
+showheroes.com, 6023, reseller
+markappmedia.site, 313916, reseller
+loopme.com, 13948, reseller, 6c8d5f95897a5a3b
+lijit.com, 244287, reseller, fafdf38b16bf6b2b
+appnexus.com, 11487,reseller, f5ab79cb980f11d1
+cazhype.com, efe937780e95574250dabe07151bdc2332800, reseller
+sparcmedia.com, 70012, reseller
