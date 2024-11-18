@@ -7347,3 +7347,8 @@ pubmatic.com, 161674, RESELLER, 5d62403b186f2ace
 addigi.media, 176543348, RESELLER
 pubmatic.com, 165359, RESELLER, 5d62403b186f2ace
 domob.cn, 108633903, RESELLER
+ogury.com, 104723a2-4983-40a3-9079-43f518d75b0b, DIRECT
+video.unrulymedia.com, 533898005, RESELLER
+dauup.com, 34141, RESELLER
+thebrave.io, 1234746, RESELLER, c25b2154543746ac
+toponad.com, 16719c20554a4f, RESELLER, 1d49fe424a1a456d
