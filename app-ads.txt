@@ -7453,3 +7453,4 @@ themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d
 venatus.com, 643e75e7bdd2e54e754b7b78, DIRECT
 video.unrulymedia.com, 7491264956381456664, RESELLER
 zetaglobal.net, 546, RESELLER
+connectad.io,455,RESELLER,85ac85a30c93b3e5
