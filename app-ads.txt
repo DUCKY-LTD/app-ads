@@ -7806,3 +7806,13 @@ singularads.com,548745,RESELLER
 hindsightsolutions.net,323-b5738,RESELLER,20e30b2ae1f670f2
 pubmatic.com,165438,RESELLER,5d62403b186f2ace
 tradplusad.com,97f87d32cbc437a3,RESELLER
+sonobi.com, 78fc1c95fe, RESELLER, d1a215d9eb5aee9e
+media.net, 8CUXPR2GT, RESELLER
+conversantmedia.com, 100867, RESELLER, 03113cd04947736d
+contextweb.com,563595,RESELLER,89ff185a4c4e857c
+sharethrough.com, Z7D3ygNP, RESELLER, d53b998a7bd4ecd2
+loopme.com, 11436, RESELLER, 6c8d5f95897a5a3b
+iqzone.com,IQ272,RESELLER
+lijit.com,456186,RESELLER,fafdf38b16bf6b2b
+myfeature.tv, XmYnVLJ23ytAhfaON5n6, RESELLER
+openx.com, 561470659, RESELLER, 6a698e2ec38604c6
