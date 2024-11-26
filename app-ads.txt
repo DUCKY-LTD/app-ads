@@ -7784,3 +7784,11 @@ pubmatic.com, 165701, RESELLER, 5d62403b186f2ace
 inmobi.com, 6cb2de20b77b4011911f2df29e4674a0, RESELLER, 83e75a7ae333ca9d
 Contextweb.com, 563462, RESELLER, 89ff185a4c4e857c
 atasdigital.com, 506154, RESELLER
+taurusx.com,80010,RESELLER
+rhebus.works,5000863388,RESELLER
+onetag.com,8668c16092f01e8,RESELLER
+lijit.com,530498,RESELLER,fafdf38b16bf6b2b
+showheroes.com,6031,RESELLER
+conversantmedia.com,100859,RESELLER,03113cd04947736d
+conversantmedia.com,100863,RESELLER,03113cd04947736d
+video.unrulymedia.com,158727213,RESELLER
