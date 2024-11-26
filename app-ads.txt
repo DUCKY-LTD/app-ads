@@ -7792,3 +7792,17 @@ showheroes.com,6031,RESELLER
 conversantmedia.com,100859,RESELLER,03113cd04947736d
 conversantmedia.com,100863,RESELLER,03113cd04947736d
 video.unrulymedia.com,158727213,RESELLER
+pubmatic.com,160692,RESELLER,5d62403b186f2ace
+mobupps.com,c74d97b01eae257e44aa9d5bade97baf32954,RESELLER
+prado.co,15127,RESELLER
+fromthetop.io,65536,RESELLER
+33across.com,0015a00002egvRSAAY,RESELLER,bbea06d9c4d2853c
+programmaticx.ai,6888889,RESELLER
+openx.com,561436793,RESELLER,6a698e2ec38604c6
+lijit.com,512156,RESELLER,fafdf38b16bf6b2b
+zetaglobal.net,757,RESELLER
+video.unrulymedia.com,947824792,RESELLER
+singularads.com,548745,RESELLER
+hindsightsolutions.net,323-b5738,RESELLER,20e30b2ae1f670f2
+pubmatic.com,165438,RESELLER,5d62403b186f2ace
+tradplusad.com,97f87d32cbc437a3,RESELLER
