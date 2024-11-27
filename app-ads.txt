@@ -7817,3 +7817,4 @@ iqzone.com,IQ272,RESELLER
 lijit.com,456186,RESELLER,fafdf38b16bf6b2b
 myfeature.tv, XmYnVLJ23ytAhfaON5n6, RESELLER
 openx.com, 561470659, RESELLER, 6a698e2ec38604c6
+zmaticoo.com, 5135063, RESELLER
