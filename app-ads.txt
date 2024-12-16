@@ -7819,3 +7819,14 @@ lijit.com,456186,RESELLER,fafdf38b16bf6b2b
 myfeature.tv, XmYnVLJ23ytAhfaON5n6, RESELLER
 openx.com, 561470659, RESELLER, 6a698e2ec38604c6
 zmaticoo.com, 5135063, RESELLER
+yabbi.me, 084ae2f2-849e-11ef-bc8c-1d64a1a1e739, DIRECT
+opera.com, pub12107878919616, RESELLER, 55a0c5fd61378de3
+zmaticoo.com, 5135759, RESELLER
+algorix.co, 604631, RESELLER, 5b394c12fea27a1d
+hyperad.tech, 250, RESELLER
+opera.com, pub4261820774272, RESELLER, 55a0c5fd61378de3
+bidscube.com, 4000356, RESELLER, 6ecc87a1e0269657
+bidinfluence.com, 501604, RESELLER
+onetag.com, 758e0f1a8f05074, RESELLER
+improvedigital.com, 2480, RESELLER
+ergadx.com, 4776, RESELLER
