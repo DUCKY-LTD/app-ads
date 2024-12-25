@@ -7869,3 +7869,6 @@ rixengine.com, 36730, RESELLER
 x.adprime.com, AJxF6R36a9M6CaTvK, RESELLER
 appnexus.com, 8283, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+lacunaads.com, 11320313, DIRECT
+upravel.com, 11320313, DIRECT
+zmaticoo.com, 11320313, DIRECT
