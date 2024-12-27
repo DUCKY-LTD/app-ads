@@ -7876,3 +7876,17 @@ yeahmobi.com, 115446, RESELLER
 pubnative.net, 1007475, RESELLER, d641df8625486a7b 
 pubnative.net, 1007303, RESELLER, d641df8625486a7b 
 betweendigital.com, 44659, RESELLER 
+inmobi.com, bfe203493be74a45917b0993b9a74596, DIRECT, 83e75a7ae333ca9d
+zmaticoo.com, 5135082, RESELLER
+zmaticoo.com, 113149, RESELLER
+programmaticx.ai, 6999766, RESELLER
+voisetech.com, 1023, RESELLER
+dauup.com, 34103, RESELLER
+sabio.us, 100071, RESELLER, 96ed93aaa9795702
+added.tv, d4cfaf78, RESELLER
+adtonos.com, PUB2356156682, RESELLER
+Added.tv, 3d20ca0f, RESELLER
+video.unrulymedia.com, 764922532, RESELLER
+tredio.io, 357a6fdf7642bf815a88822c447d9dc432901, RESELLER
+e-planning.net, 608359bb987625b2, RESELLER, c1ba615865ed87b2
+magicmedia.ae, 6f828808, RESELLER
