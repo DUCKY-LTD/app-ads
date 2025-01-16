@@ -267,7 +267,6 @@ Adsolut.in, 15695, DIRECT
 Adsolut.in, 1569511, DIRECT
 adsparc, 986, RESELLER
 adswizz.com, consumable, direct
-adswizz.com, odeeo, DIRECT
 adswizz.com, targetspot, RESELLER
 adswizz.com,consumable,RESELLER
 adswizz.com,odeeo,DIRECT
@@ -7892,3 +7891,5 @@ e-planning.net, 608359bb987625b2, RESELLER, c1ba615865ed87b2
 magicmedia.ae, 6f828808, RESELLER
 video.unrulymedia.com, 744858541, RESELLER
 improvedigital.com, 2174_231, RESELLER
+adswizz.com, odeeo, RESELLER
+adswizz.com, 484, RESELLER
