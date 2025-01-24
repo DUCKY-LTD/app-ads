@@ -7895,3 +7895,29 @@ video.unrulymedia.com, 744858541, RESELLER
 improvedigital.com, 2174_231, RESELLER
 adswizz.com, odeeo, RESELLER
 adswizz.com, 484, RESELLER
+adform.com, 1512, RESELLER, 9f5210a2f0999e32
+adingo.jp, 25965, RESELLER
+adreact.com,80506,DIRECT
+adsparc.com, 2087, DIRECT
+google.com, pub-3960095709930134, RESELLER, f08c47fec0942fa0
+google.com, pub-8278416939377896, RESELLER, f08c47fec0942fa0
+google.com, pub-9327478276040335, RESELLER, f08c47fec0942fa0
+lijit.com, 270673-eb, RESELLER, fafdf38b16bf6b2b
+lijit.com, 270673, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 118367, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156049, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163092, RESELLER, 5d62403b186f2ace
+revenueflex.com,0c7b6d8d2693bd7cf71d9c89e6da6e5337b9f8a8,DIRECT
+rhythmone.com, 643721880, RESELLER, a670c89d4a324e47
+sharethrough.com, HLnT1oIc, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100051243, RESELLER, 07bcf65f187117b4
+smartadserver.com, 3503-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4618-OB, RESELLER, 060d053dcf45cbf3
+sonobi.com, 35f7241993, RESELLER, d1a215d9eb5aee9e
+sonobi.com, f3c745e79d, RESELLER, d1a215d9eb5aee9e
+sovrn.com, 270673, RESELLER, fafdf38b16bf6b2b
+spotx.tv, 212457, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 212457, RESELLER, 7842df1d2fe2db34
+supply.colossusssp.com, 412, RESELLER
+video.unrulymedia.com, 1959272400084273804, RESELLER
+video.unrulymedia.com, 643721880, RESELLER, 29bc7d05d309e1bc
