@@ -7898,7 +7898,7 @@ adswizz.com, 484, RESELLER
 adform.com, 1512, RESELLER, 9f5210a2f0999e32
 adingo.jp, 25965, RESELLER
 adreact.com,80506,DIRECT
-adsparc.com, 2087, DIRECT
+adsparc.com, 2087, DIRECT
 google.com, pub-3960095709930134, RESELLER, f08c47fec0942fa0
 google.com, pub-8278416939377896, RESELLER, f08c47fec0942fa0
 google.com, pub-9327478276040335, RESELLER, f08c47fec0942fa0
