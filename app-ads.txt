@@ -7921,3 +7921,32 @@ spotxchange.com, 212457, RESELLER, 7842df1d2fe2db34
 supply.colossusssp.com, 412, RESELLER
 video.unrulymedia.com, 1959272400084273804, RESELLER
 video.unrulymedia.com, 643721880, RESELLER, 29bc7d05d309e1bc
+pubnative.net,1010072,RESELLER,d641df8625486a7b
+pubnative.net,1010071,RESELLER,d641df8625486a7b
+sharethrough.com,veuioj8F,RESELLER,d53b998a7bd4ecd2
+improvedigital.com,2508,RESELLER
+pubnative.net,1009988,RESELLER,d641df8625486a7b
+video.unrulymedia.com,174356361,RESELLER
+my-cast.tv,986797,RESELLER
+pubnative.net,1010068,RESELLER,d641df8625486a7b
+contextweb.com,563604,RESELLER,89ff185a4c4e857c
+yabbi.me,675d9254-4032-47ed-9074-b6ef4dbab522,RESELLER
+improvedigital.com,2509,RESELLER
+video.unrulymedia.com,168269289,RESELLER
+aralego.com,par-E2B3A33EAA4286BEF7ADD9AA28A922D2,RESELLER
+pubnative.net,1010073,RESELLER,d641df8625486a7b
+lijit.com,535224,RESELLER,fafdf38b16bf6b2b
+adiiix.com,db716a4c,RESELLER
+inmobi.com,791b84bdd791470faa8dca5f04e6a83b,RESELLER,83e75a7ae333ca9d
+triplelift.com,8614,RESELLER,6c33edb13117fd86
+ucfunnel.com,par-E2B3A33EAA4286BEF7ADD9AA28A922D2,RESELLER
+smaato.com,1100057444,RESELLER,07bcf65f187117b4
+pubnative.net,1010067,RESELLER,d641df8625486a7b
+pubnative.net,1010069,RESELLER,d641df8625486a7b
+screenil.com,554156,RESELLER
+inceptionmedia.ai,642690015,RESELLER
+pubnative.net,1010070,RESELLER,d641df8625486a7b
+improvedigital.com,2498,RESELLER
+smartivi.ai,357152,RESELLER
+improvedigital.com,2505,RESELLER
+lunamedia.io,2zr5ys29xxoexdl,RESELLER,524ecb396915caaf
