@@ -7950,3 +7950,65 @@ improvedigital.com,2498,RESELLER
 smartivi.ai,357152,RESELLER
 improvedigital.com,2505,RESELLER
 lunamedia.io,2zr5ys29xxoexdl,RESELLER,524ecb396915caaf
+video.unrulymedia.com, 284522492, reseller
+smartyads.com, 300155, direct, fd2bde0ff2e62c5d
+media.net, 8cu61coco, direct (for any o&o apps/domains)
+freewheel.tv, 1607600, reseller
+inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, reseller, 83e75a7ae333ca9d
+risecodes.com, 66bb42d735bff70001ca900a, direct
+media.net, 8cu167y53, reseller
+freewheel.tv, 1608049, reseller
+rubiconproject.com, 26896, direct, 0bfd66d529a55807
+152media.info,152m963,reseller
+freewheel.tv, 1608528, reseller
+app-stock.com, 458952, reseller
+google.com, pub-3948711718759692, direct, f08c47fec0942fa0
+smartyads.com, 980, reseller, fd2bde0ff2e62c5d
+improvedigital.com, 2345, direct
+freewheel.tv, 1608566, reseller
+smaato.com, 1100057444, reseller, 07bcf65f187117b4
+admatic.de, ade-pub-6537379909, reseller, uufps1dh5stc6euk
+media.net, 8cu61coco, reseller (for all non o&o apps/domains)
+loopme.com, 13943, reseller, 6c8d5f95897a5a3b
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf33053, direct
+pubmatic.com, 163799, reseller, 5d62403b186f2ace
+crystall.io, 312881, direct
+madopi.media, 161153, reseller
+ushareit.com, lc98ffe3f38a46423e, reseller
+adyoulike.com, 4d5014f8da11fc0a70ebbda5d4537935, direct
+freewheel.tv, 1607602, reseller
+mediafuse.com, 720 , reseller
+themediagrid.com, di2guz, direct, 35d5010d7789b49d
+video.unrulymedia.com, 297618916, reseller
+152media.info,152m989,reseller
+pixelpluses.com, 204174, reseller
+ñontextweb.com ,562786,reseller,89ff185a4c4e857c
+renovi.io, reseller
+onetag.com, 8e760e40bd14f95, direct
+rubiconproject.com, 26980, reseller, 0bfd66d529a55807
+playdigo.com, 2021, reseller, 92011346d63d3c30
+152media.info,152m666,reseller
+smoot.ai, 100058, reseller
+onetag.com, 7a07370227fc000, reseller
+freewheel.tv, 1576545, reseller
+9dotsmedia.com, 1171, reseller, 45ff185b4c4e857d
+smartclip.net, 15458, reseller
+keenkale.com, 20242025, reseller
+smartadserver.com, 4721, reseller
+adbite.com,215596, direct
+adyoulike.com, 814ad5a7eb7601cc991ae83a976195b9, reseller
+screenil.com, 547745 , reseller
+axis-marketplace.com,210,direct
+pubmatic.com, 163797, reseller, 5d62403b186f2ace
+krushmedia.com, ajxf6r662a9m6catvk, reseller
+152media.info,152m915,reseller
+waardex.com, 212880, direct
+lijit.com, 518574, reseller, fafdf38b16bf6b2b #sovrn
+opera.com,pub12108925371520,reseller,55a0c5fd61378de3
+admatic.com.tr, adm-pub-3698631073, reseller, uufps1dh5stc6euk
+rtbhouse.com, v4y3snbsel6fyc6mszdf, reseller
+freewheel.tv, 1608048, reseller
+connekt.ai, 2852512, reseller
+singularads.com,  554841, reseller
+appnexus.com, 7664, reseller
+onetag.com, 8e760e40bd14f95, reseller
