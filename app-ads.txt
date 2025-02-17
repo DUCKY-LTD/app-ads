@@ -8343,3 +8343,14 @@ media.net, 8CUKO1FI7, RESELLER
 eskimi.com, 2020000215, RESELLER
 improvedigital.com, 2502, RESELLER
 pubmatic.com, 162710, RESELLER, 5d62403b186f2ace
+bidease.com, bidease_seller_36, RESELLER
+pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
+pubnative.net, 1009966, RESELLER, d641df8625486a7b
+openx.com, 561593493, RESELLER, 6a698e2ec38604c6
+aidentity.ai, 8847a2695c, RESELLER
+connekt.ai, 8882281918, RESELLER
+iqzone.com, IQ96, RESELLER
+media.net, 8CU574IRP, RESELLER
+onetag.com, 925c32ef718e9fe, RESELLER
+playdigo.com, 1969, RESELLER, 92011346d63d3c30
+inmobi.com, 95e2b3b059d64b2c97e4cf8dc2b15796, RESELLER, 83e75a7ae333ca9d
