@@ -8609,3 +8609,5 @@ themediagrid.com,OTJDBI,RESELLER,35d5010d7789b49d
 themediagrid.com,RIX2M5,RESELLER,35d5010d7789b49d
 triplelift.com,12240,RESELLER,6c33edb13117fd86
 xandr.com,15840,RESELLER,f5ab79cb980f11d1
+adwmg.com, 100789, DIRECT, c9688a22012618e7
+lijit.com, 306242, RESELLER, fafdf38b16bf6b2b
