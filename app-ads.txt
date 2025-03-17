@@ -8611,3 +8611,20 @@ triplelift.com,12240,RESELLER,6c33edb13117fd86
 xandr.com,15840,RESELLER,f5ab79cb980f11d1
 adwmg.com, 100789, DIRECT, c9688a22012618e7
 lijit.com, 306242, RESELLER, fafdf38b16bf6b2b
+adform.com, 3268, reseller, 9f5210a2f0999e32
+appnexus.com, 2741, reseller, f5ab79cb980f11d1
+inmobi.com, 9ee4d8a2685f422eacd68b95d1f3c019, reseller, 83e75a7ae333ca9d
+ergadx.com, 5083, direct
+rubiconproject.com, 13732, reseller, 0bfd66d529a55807
+improvedigital.com, 2541, reseller
+frameplay.gg, 53945695, reseller
+‍xandr.com, 13850, reseller, f5ab79cb980f11d1
+rubiconproject.com, 23834, reseller, 0bfd66d529a55807
+trustedstack.com, tsh553i92, direct
+intenze.co , 200169 , direct
+video.unrulymedia.com, 642221422, reseller
+‍rubiconproject.com, 22830, reseller, 0bfd66d529a55807
+smartadserver.com, 5070, reseller, 060d053dcf45cbf3
+snack-media.com, snm_4352, direct
+nexverse.ai, 24057, reseller
+google.com, pub-3977122154505186, reseller, f08c47fec0942fa0
