@@ -8628,3 +8628,36 @@ smartadserver.com, 5070, reseller, 060d053dcf45cbf3
 snack-media.com, snm_4352, direct
 nexverse.ai, 24057, reseller
 google.com, pub-3977122154505186, reseller, f08c47fec0942fa0
+pubmatic.com, 159382, RESELLER
+mgid.com, 885240, RESELLER, d4c29acad76ce94f
+lijit.com, 543478, RESELLER, fafdf38b16bf6b2b
+bidmachine.io, 896, RESELLER
+appsheep.com, 27dee787560b471cafde1e55d87bc75b, RESELLER
+appsheep.com, 225239742b9b4299988a6ac86d11f752, RESELLER
+appsheep.com, c34528d5387e44158367ab905d2df86a, RESELLER
+appsheep.com, 73bdcb5d7d51463fa655b87fa6847051, RESELLER
+appsheep.com, 31fdfbfe3d0e4a6da5305ff849648024, RESELLER
+appsheep.com, ae4e0e2cebe3438aa18f7006b85b570d, RESELLER
+appsheep.com, fc7556810c904b029cd14668a5ee42e3, RESELLER
+appsheep.com, 3a930d9b024c457d966d480b3421e3dd, RESELLER
+appsheep.com, b2e975ab60a54848912ddde40b3e88d3, RESELLER
+appsheep.com, 14441a46f4f44c9185886bbfbd44bd5a, RESELLER
+appsheep.com, 934f1509303b4a19acb9e40d5166a8e8, RESELLER
+appsheep.com, c777b24110cc46d0a8e1245342c6c919, RESELLER
+themediagrid.com, GZC9B8, RESELLER, 35d5010d7789b49d
+criteo.com, B-078794, RESELLER, 9fac4a4a87c2a44f
+improvedigital.com, 2527, RESELLER
+improvedigital.com, 2528, RESELLER
+improvedigital.com, 2529, RESELLER
+improvedigital.com, 2530, RESELLER
+bidease.com, bidease_seller_46, RESELLER
+openx.com, 561446248, RESELLER, 6a698e2ec38604c6
+eskimi.com, 2020000810, RESELLER
+Media.net, 8CU5L226O, RESELLER
+smaato.com, 1100057546, DIRECT, 07bcf65f187117b4
+adform.com, 1762, RESELLER
+smartadserver.com, 3627, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4762, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 5026, RESELLER, d53b998a7bd4ecd2
+appnexus.com, 17044, RESELLER
+xandr.com, 17044, RESELLER
