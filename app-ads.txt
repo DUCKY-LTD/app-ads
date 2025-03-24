@@ -8661,3 +8661,5 @@ sharethrough.com, 4762, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5026, RESELLER, d53b998a7bd4ecd2
 appnexus.com, 17044, RESELLER
 xandr.com, 17044, RESELLER
+smaato.com, 1100058728, RESELLER, 07bcf65f187117b4
+toponad.com, 166e12f3c48018, RESELLER, 1d49fe424a1a456d
