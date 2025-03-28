@@ -8663,3 +8663,5 @@ appnexus.com, 17044, RESELLER
 xandr.com, 17044, RESELLER
 smaato.com, 1100058728, RESELLER, 07bcf65f187117b4
 toponad.com, 166e12f3c48018, RESELLER, 1d49fe424a1a456d
+adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
+indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
