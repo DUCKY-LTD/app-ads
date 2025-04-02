@@ -8667,3 +8667,16 @@ smaato.com, 1100058728, RESELLER, 07bcf65f187117b4
 toponad.com, 166e12f3c48018, RESELLER, 1d49fe424a1a456d
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 168269289, reseller
+video.unrulymedia.com, 639501697, reseller
+admatic.com.tr, adm-pub-3698631073, direct, uufps1dh5stc6euk
+admatic.de, ade-pub-6537379909, direct, uufps1dh5stc6euk
+crystall.io, 264892, direct
+inmobi.com, a465db258ac44b2abb4e100fa019be3c, reseller, 83e75a7ae333ca9d
+criteo.com,b-059856,direct,9fac4a4a87c2a44f
+‍xandr.com, 13850, reseller, f5ab79cb980f11d1
+ñontextweb.com ,562786,reseller,89ff185a4c4e857c
+nextmillennium.io, 16949, reseller, 65bd090fa4a1e3d6
+lijit.com, 512561, reseller, fafdf38b16bf6b2b
+‍rubiconproject.com, 22830, reseller, 0bfd66d529a55807
+themediagrid.com, lmf4e8, direct, 35d5010d7789b49d
