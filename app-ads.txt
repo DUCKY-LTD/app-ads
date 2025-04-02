@@ -8702,3 +8702,43 @@ visiblemeasures.com, 1004, RESELLER
 trustedstack.com, TS5UCV3O4, RESELLER
 improvedigital.com, 2316, RESELLER
 opera.com, pub5959307917824, RESELLER, 55a0c5fd61378de3
+aceex.io, 2078, RESELLER, b1cf3c874d5c6682
+lijit.com, 289960, RESELLER, fafdf38b16bf6b2b #SOVRN
+pubmatic.com, 166270, RESELLER, 5d62403b186f2ace
+conversantmedia.com, 100872, RESELLER, 03113cd04947736d
+appnexus.com, 7582, RESELLER, f5ab79cb980f11d1
+freewheel.tv, 1608199, RESELLER
+freewheel.tv, 1608200, RESELLER
+pubmatic.com, 160628, RESELLER, 5d62403b186f2ace
+adwmg.com, 101215, RESELLER, c9688a22012618e7
+sharethrough.com, 2f18331a, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
+blasto.ai, 354, RESELLER, 7e936b1feafdaa61
+appnexus.com,16641,RESELLER,f5ab79cb980f11d1
+x.adprime.com, AJxF6R44a9M6CaTvK, RESELLER
+voisetech.com, 1216, RESELLER, 9009ef0379162448
+aidentity.ai, 05bfbdf84b, RESELLER
+pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
+playdigo.com, 2041, RESELLER, 92011346d63d3c30
+aidentity.ai,8847a2695c, RESELLER
+loopme.com,14009,RESELLER,6c8d5f95897a5a3b
+iqzone.com,IQ96,RESELLER
+media.net,8CU574IRP,RESELLER
+krushmedia.com, AJxF6R439a9M6CaTvK, RESELLER
+loopme.com,12858,RESELLER,6c8d5f95897a5a3b
+sonobi.com, b812bd55d6, RESELLER, d1a215d9eb5aee9e
+onetag.com, 848879e82ca5940, RESELLER
+orangeclickmedia.com, C-1021, RESELLER
+markappmedia.site, 000007, RESELLER
+adops.gr, c23b034c3e1baae09a2964f47d949f5d, RESELLER
+sabio.us,100092,reseller,96ed93aaa9795702 
+onetag.com, 925c32ef718e9fe,RESELLER 
+smaato.com, 1100057547, RESELLER, 07bcf65f187117b4
+improvedigital.com, 2542, RESELLER
+pubmatic.com, 166409, RESELLER, 5d62403b186f2ace
+sonobi.com, 79e197cdbc, RESELLER, d1a215d9eb5aee9e
+smaato.com, 1100057444, RESELLER, 07bcf65f187117b4                
+risecodes.com, 67ac81ac2c875500018fbbfc, DIRECT
+Triplelift.com, 13907, RESELLER, 6c33edb13117fd86
+sharethrough.com, veuioj8F, RESELLER, d53b998a7bd4ecd2
+toponad.com,166e12f3c48018,RESELLER,1d49fe424a1a456d
