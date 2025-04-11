@@ -8744,3 +8744,6 @@ risecodes.com, 67ac81ac2c875500018fbbfc, DIRECT
 Triplelift.com, 13907, RESELLER, 6c33edb13117fd86
 sharethrough.com, veuioj8F, RESELLER, d53b998a7bd4ecd2
 toponad.com,166e12f3c48018,RESELLER,1d49fe424a1a456d
+opera.com,pub12058951686464,RESELLER,55a0c5fd61378de3
+mediago.io,045ac24b888bcf59a09731e7f0f2084f,RESELLER
+iion.io,10209,RESELLER,013a29748465dc57
