@@ -8748,3 +8748,13 @@ toponad.com,166e12f3c48018,RESELLER,1d49fe424a1a456d
 opera.com,pub12058951686464,RESELLER,55a0c5fd61378de3
 mediago.io,045ac24b888bcf59a09731e7f0f2084f,RESELLER
 iion.io,10209,RESELLER,013a29748465dc57
+cas.ai, 922e6092, RESELLER
+pubmatic.com, 163753, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165995, RESELLER, 5d62403b186f2ace
+snack-media.com, SNM_4199, RESELLER
+adagio.io, 1509, RESELLER
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1790, RESELLER
+openx.com, 558899373, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 3554, RESELLER
