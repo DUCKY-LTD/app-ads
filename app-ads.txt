@@ -7231,7 +7231,6 @@ rtbhouse.com, Bl90aHDHpnUdxORfqhhI, RESELLER
 rtbhouse.com, KicWDRpi0GCWX2lQJcYn, RESELLER
 smartadserver.com, 4456, RESELLER, 060d053dcf45cbf3
 xandr.com, 13293, RESELLER, f5ab79cb980f11d1
-bidmachine.io, 200, DIRECT
 betweendigital.com, 44727, RESELLER
 pubmatic.com,163420, RESELLER, 5d62403b186f2ace
 pubmatic.com,165340, RESELLER, 5d62403b186f2ace
