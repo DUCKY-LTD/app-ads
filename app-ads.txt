@@ -8773,3 +8773,20 @@ openx.com, 558899373, RESELLER, 6a698e2ec38604c6
 smartadserver.com, 3554, RESELLER
 programmaticx.ai,3044854, RESELLER
 improvedigital.com, 2345, RESELLER
+loopme.com,15188,DIRECT,6c8d5f95897a5a3b
+video.unrulymedia.com,2148207460,RESELLER,a670c89d4a324e47
+rhythmone.com,2148207460,RESELLER,a670c89d4a324e47
+smartyads.com,100034,RESELLER,fd2bde0ff2e62c5d
+admatic.com.tr,adm-pub-185375301865,RESELLER
+Peak226.com,12400,RESELLER
+smartadserver.com,1894,RESELLER
+smartadserver.com,3445,RESELLER
+gumgum.com,13706,RESELLER,ffdef49475d318a9
+engagebdr.com,10181,RESELLER
+advertising.com,19623,RESELLER#AOL–One
+ninthdecimal.com,1c383cd30b7c298ab50293adfecb7b18,RESELLER,3aff2148687b274b
+admanmedia.com,594,RESELLER
+spotxchange.com,135285,RESELLER,7842df1d2fe2db34
+spotx.tv,135285,RESELLER,7842df1d2fe2db34
+beachfront.com,14513,RESELLER,e2541279e8e2ca4d
+admixer.net,eab09ea6-bcf7-4eff-965d-b4f43962c73c,RESELLER
