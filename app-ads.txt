@@ -8792,3 +8792,7 @@ spotxchange.com,135285,RESELLER,7842df1d2fe2db34
 spotx.tv,135285,RESELLER,7842df1d2fe2db34
 beachfront.com,14513,RESELLER,e2541279e8e2ca4d
 admixer.net,eab09ea6-bcf7-4eff-965d-b4f43962c73c,RESELLER
+risecodes.com, 6641bedf41d2c40001d02751, RESELLER
+thebrave.io, 1234587, RESELLER, c25b2154543746ac
+videoheroes.tv, 212717, RESELLER, 064bc410192443d8
+OWNERDOMAIN=playducky.com
