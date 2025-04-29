@@ -8797,3 +8797,8 @@ risecodes.com, 6641bedf41d2c40001d02751, RESELLER
 thebrave.io, 1234587, RESELLER, c25b2154543746ac
 videoheroes.tv, 212717, RESELLER, 064bc410192443d8
 OWNERDOMAIN=playducky.com
+inventorypartnerdomain=adsyield.com
+improvedigital.com , 2320, RESELLER
+adtelligent.com, 758917, RESELLER, 8ce87912eb022a51
+inmobi.com, 464f6eb023b54063b93db62934eb576f, DIRECT, 83e75a7ae333ca9d
+moldinn.com, x1DqA4Z, DIRECT
