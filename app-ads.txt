@@ -8809,3 +8809,12 @@ audire.fm, 1359, RESELLER
 tritondigital.com, 141193, RESELLER, 19b4454d0b87b58b
 google.com, pub-4718783897205493, RESELLER, f08c47fec0942fa0
 smartadserver.com, 4925, RESELLER, 060d053dcf45cbf3
+selectmedia.asia, 645b5a31e427dc0a87025fa5 , RESELLER, e365c871a27c655d
+indexexchange.com, 211613, RESELLER, 50b1c356f2c5c8fc
+siprocalads.com, FDEE7O33SD2B5773S1HU6H5IM8, RESELLER
+themediagrid.com, 4ZVFEU, RESELLER, 35d5010d7789b49d
+yellowhead.com, 45c0a1d7e329bf, RESELLER
+ignitemediatech.com, pub_11125, RESELLER
+admixer.net,eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
+zetaglobal.net, 633, RESELLER
+saharmedia.net, 1683576, RESELLER
