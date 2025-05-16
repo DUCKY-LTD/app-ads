@@ -8875,3 +8875,14 @@ video.unrulymedia.com,557688749,RESELLER
 xandr.com,17417,RESELLER,f5ab79cb980f11d1
 yieldmo.com,3761877318507634863,RESELLER,6a92c77cfc3d2258
 zmaticoo.com,114490,RESELLER
+yeahmobi.com, 115446, RESELLER 
+pubnative.net, 1007475, RESELLER, d641df8625486a7b 
+pubnative.net, 1007303, RESELLER, d641df8625486a7b 
+betweendigital.com, 44659, RESELLER 
+bidmachine.io, 200, DIRECT
+onetag.com, 82e44d118b79600, RESELLER
+start.io, 146282053, RESELLER
+triplelift.com,14127 ,RESELLER, 6c33edb13117fd86
+markappmedia.site, C-1054, RESELLER
+rubiconproject.com, 20086, RESELLER
+bidease.com, bidease_seller_19, RESELLER
