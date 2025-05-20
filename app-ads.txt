@@ -8891,3 +8891,23 @@ lijit.com,550531,RESELLER,fafdf38b16bf6b2b
 admanmedia.com,2278,RESELLER
 carbonatix.com,165145618,RESELLER
 adyoulike.com, cfd36709cd8e827a23f527d5d4959c05, RESELLER
+integralstream.com, 105, direct
+oko.uk,a2129e7c-bc66-4d15-b522-109caefd0e2e,direct,b3511ffcafb23a32
+rubiconproject.com, 27026, reseller, 0bfd66d529a55807
+oko.uk, 778212e9-63b9-470d-93a4-2381f332af8a, reseller, b3511ffcafb23a32
+inmobi.com, 9b300ff061ff4501abcdd864e6c1cceb, reseller, 83e75a7ae333ca9d
+frameplay.gg, 2018037567, reseller, f3e384c386126e9d
+playdigo.com, 1964, direct, 92011346d63d3c30
+‍xandr.com, 13850, reseller, f5ab79cb980f11d1
+video.unrulymedia.com, 180771070, reseller
+ñontextweb.com ,562786,reseller,89ff185a4c4e857c
+appnexus.com,11111,reseller,f5ab79cb980f11d1
+smilewanted.com, 5572, reseller
+video.unrulymedia.com,469734233,reseller
+‍rubiconproject.com, 22830, reseller, 0bfd66d529a55807
+monetixads.com, mix-pub-5997792874, direct, uufps1dh5stc6euk
+inmobi.com,19c2d64f068541e7a796cf6f89ce29a8,reseller,83e75a7ae333ca9d
+‍smartadserver.com, 4423, reseller, 060d053dcf45cbf3
+eskimi.com,2020000364,reseller
+google.com, pub-8856559311549217, reseller, f08c47fec0942fa0
+alaska-gaming.com, 19881, reseller
