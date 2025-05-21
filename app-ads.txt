@@ -8911,3 +8911,6 @@ inmobi.com,19c2d64f068541e7a796cf6f89ce29a8,reseller,83e75a7ae333ca9d
 eskimi.com,2020000364,reseller
 google.com, pub-8856559311549217, reseller, f08c47fec0942fa0
 alaska-gaming.com, 19881, reseller
+adagio.io,1522,RESELLER
+balloonlabs.ai,3412752782,RESELLER
+connekt.ai,4498663579,RESELLER
