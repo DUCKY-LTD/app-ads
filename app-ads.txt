@@ -8914,3 +8914,57 @@ alaska-gaming.com, 19881, reseller
 adagio.io,1522,RESELLER
 balloonlabs.ai,3412752782,RESELLER
 connekt.ai,4498663579,RESELLER
+adbro.me, d4e607f1-06eb-43cb-9d6c-3ff3a7d87dbc, DIRECT
+smrtconnect.com, 820297, RESELLER
+thebigred.co, 900310, RESELLER
+captiv.ai, 3071, RESELLER
+phygitalnow.com, 212082, RESELLER
+lijit.com, 481808, RESELLER, fafdf38b16bf6b2b #SOVRN
+captiv.ai, 3072, RESELLER
+phygitalnow.com, 212083, RESELLER
+smrtconnect.com, 820304, RESELLER
+thebigred.co, 900315, RESELLER
+apester.com, 1105, DIRECT
+triplelift.com, 11457, RESELLER, 6c33edb13117fd86
+onetag.com, 67c71bd96716ca3 RESELLER
+freewheel.tv, 1608933, RESELLER
+xandr.com, 13955, RESELLER
+axis-marketplace.com, 239, DIRECT
+improvedigital.com, 2539, RESELLER
+supply.colossusssp.com, 838, DIRECT
+insticator.com, 178a035b-0561-4fec-a9a6-f973ee4c8c31, DIRECT, b3511ffcafb23a32
+video.unrulymedia.com, 579227028, RESELLER
+Media.net, 8CUP0ENJ2, DIRECT
+pubmatic.com, 166553, RESELLER, 5d62403b186f2ace
+kueez.com, 4e6bcaa6797e0019a2362406888380d6, direct
+bidinfluence.com, 502034, RESELLER
+decenterads.com, 301703, RESELLER
+bidscube.com, 4000380, RESELLER, 6ecc87a1e0269657
+improvedigital.com, 2418, RESELLER
+eskimi.com, 2020000857, RESELLER
+video.unrulymedia.com, 516878781, RESELLER
+x.adprime.com, AJxF6R19a9M6CaTvK, RESELLER
+vdo.ai, 915813794, RESELLER
+carbonatix.com, 176915265, RESELLER
+carbonatix.com, 176915265, DIRECT
+mediafuse.com, 809, RESELLER
+conversantmedia.com, 100883, RESELLER, 03113cd04947736d
+zetaglobal.net, 503, RESELLER
+admixer.net, f0c98209-e083-4691-9071-4b43542f063f, RESELLER
+orangeclickmedia.com, C-1260, RESELLER
+bematterfull.com, 470013009523, RESELLER
+onetag.com, 9263071c4745d03, RESELLER
+rubiconproject.com, 27420, DIRECT, 0bfd66d529a55807
+bematterfull.com, 92391776902, DIRECT
+improvedigital.com, 2518, RESELLER
+consumable.com, 2001635, RESELLER, aefcd3d2f45b5070
+conversantmedia.com, 100948, RESELLER, 03113cd04947736d
+aniview.com, 6811763019ab911dd8056e6c, RESELLER, 78b21b97965ec3f8
+adyoulike.com, f3d16fa10382ca99dca498bd4e9659c4, RESELLER, 4ad745ead2958bf7
+zetaglobal.net, 927, RESELLER
+sonobi.com, f7b2a5d226, RESELLER, d1a215d9eb5aee9e
+inmobi.com, ae6d6d3e5c77453b8361651a9ce29870, RESELLER, 83e75a7ae333ca9d
+trustedstack.com, TSV5NEQDW, RESELLER
+video.unrulymedia.com, 640018708, RESELLER
+axonix.com, 59183, RESELLER
+trustedstack.com, TSCLS3659, RESELLER
