@@ -8968,3 +8968,27 @@ trustedstack.com, TSV5NEQDW, RESELLER
 video.unrulymedia.com, 640018708, RESELLER
 axonix.com, 59183, RESELLER
 trustedstack.com, TSCLS3659, RESELLER
+loopme.com, 14692, DIRECT
+improvedigital.com, 2508, RESELLER
+pubnative.net, 1010073, RESELLER, d641df8625486a7b
+adiiix.com, db716a4c, RESELLER
+loopme.com, 14003, RESELLER, 6c8d5f95897a5a3b
+pubnative.net, 1010069, RESELLER, d641df8625486a7b
+pubnative.net, 1009988, RESELLER, d641df8625486a7b
+openx.com, 540338069, RESELLER, 6a698e2ec38604c
+pubnative.net, 1009046, RESELLER, d641df8625486a7b
+improvedigital.com, 2505, RESELLER
+aralego.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
+pubnative.net, 1010068, RESELLER, d641df8625486a7b
+pubnative.net, 1010067, RESELLER, d641df8625486a7b
+admixer.co.kr, 1289, RESELLER
+pubnative.net, 1010071, RESELLER, d641df8625486a7b
+improvedigital.com, 2509, RESELLER
+bidmachine.io, 198, RESELLER
+pubnative.net, 1007475, RESELLER, d641df8625486a7b
+rhebus.works, 5000863388, RESELLER
+pubnative.net, 1010072, RESELLER, d641df8625486a7b
+lijit.com, 456186, RESELLER, fafdf38b16bf6b2b
+ucfunnel.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
+pubnative.net, 1010070, RESELLER, d641df8625486a7b
+lijit.com, 548876, RESELLER, fafdf38b16bf6b2b
