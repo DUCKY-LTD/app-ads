@@ -9155,3 +9155,22 @@ video.unrulymedia.com, 586616193, RESELLER
 adform.com,2671,RESELLER
 sharethrough.com,26VgE1nN,RESELLER,d53b998a7bd4ecd2
 taurusx.com,80635,RESELLER
+eskimi.com, 2020000104, RESELLER
+appnexus.com,15670, RESELLER
+alaska-gaming.com, 19876, RESELLER
+triplelift.com,8784, RESELLER  , 6c33edb13117fd86
+admanmedia.com, 2269, DIRECT
+oko.uk,a4eb11dd-9bc5-4d77-9877-71f69dcfc08f,DIRECT,b3511ffcafb23a32
+sonobi.com,f2597d7a13,RESELLER,d1a215d9eb5aee9e
+33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
+richaudience.com, q3KyMB36ue, RESELLER
+lunamedia.io, 1yoxx3u24n2zgmg3fqgxniuwcg9qww5a, RESELLER, 524ecb396915caaf
+adagio.io, 1522, RESELLER
+e-volution.ai, AJxF6R131a9M6CaTvK, RESELLER
+thegrowthy.com, AJxF6R131a9M6CaTvK, RESELLER
+metup.it, AJxF6R131a9M6CaTvK, RESELLER
+lijit.com, 258880, RESELLER, fafdf38b16bf6b2b
+onetag.com, 7ccde8775076e8c, RESELLER
+onetag.com, 89b54d680fe2404, RESELLER
+advertising.com, 82632, RESELLER
+taurusx.com, 80635, RESELLER
