@@ -9152,3 +9152,6 @@ appnexus.com, 14627, RESELLER
 risecodes.com, 6554b3dc3ce1d50001c9c225, DIRECT
 onetag.com, 936334eb52b0ef4, DIRECT
 video.unrulymedia.com, 586616193, RESELLER
+adform.com,2671,RESELLER
+sharethrough.com,26VgE1nN,RESELLER,d53b998a7bd4ecd2
+taurusx.com,80635,RESELLER
