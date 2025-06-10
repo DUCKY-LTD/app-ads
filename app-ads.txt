@@ -9186,3 +9186,4 @@ smaato.com,1100058831,RESELLER,07bcf65f187117b4
 smaato.com,1100058938,RESELLER,07bcf65f187117b4
 targetspot.com,373,RESELLER,feb28ed826dcf532
 tritondigital.com,222283,RESELLER,19b4454d0b87b58b
+rubiconproject.com, 27496, DIRECT, 0bfd66d529a55807
