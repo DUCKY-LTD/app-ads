@@ -9219,3 +9219,8 @@ onetag.com,5d0d72448d8bfb0,RESELLER
 pubmatic.com,165874,RESELLER,5d62403b186f2ace
 sharethrough.com,2f18331a,RESELLER,d53b998a7bd4ecd2
 video.unrulymedia.com,586616193,RESELLER
+spinx.biz, 1373698866, RESELLER
+mindtos.com, mt45eb5f865ce39e1b, RESELLER
+apester.com, 2212, RESELLER
+myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
+hindsightsolutions.net, HSINMOBI100000, RESELLER
