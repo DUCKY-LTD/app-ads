@@ -9225,3 +9225,17 @@ mindtos.com, mt45eb5f865ce39e1b, RESELLER
 apester.com, 2212, RESELLER
 myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
 hindsightsolutions.net, HSINMOBI100000, RESELLER
+hax.ortb.net,656609,reseller
+adyoulike.com,283e6e26614a07d896da0933c3719127,direct
+video.unrulymedia.com,6111915185540403805,direct
+smartyads.com,942,direct,fd2bde0ff2e62c5d
+152media.info,152m915, reseller
+onetag.com,5adb88524e24e50,reseller
+media.net, 8cu61coco, reseller
+pubmatic.com,166396,reseller,5d62403b186f2ace
+media.net, 8cu61coco, direct
+adform.com,2904,direct
+appnexus.com,14808,direct
+152media.info,152m1091,reseller
+ontextweb.com ,562786,reseller,89ff185a4c4e857c
+trustedstack.com,tsh553i92,direct
