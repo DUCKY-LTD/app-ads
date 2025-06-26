@@ -9268,3 +9268,5 @@ onomagic.com, 204981, RESELLER
 themediagrid.com, FALINO, DIRECT, 35d5010d7789b49d
 bidmachine.io,113,RESELLER
 improvedigital.com, 2602, RESELLER
+improvedigital.com, 2608, RESELLER
+bidmachine.io,162,RESELLER
