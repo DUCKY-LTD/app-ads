@@ -9270,3 +9270,24 @@ bidmachine.io,113,RESELLER
 improvedigital.com, 2602, RESELLER
 improvedigital.com, 2608, RESELLER
 bidmachine.io,162,RESELLER
+33across.com,0010b00002Xbn7QAAR,RESELLER,bbea06d9c4d2853c
+Media.net,8CU1FFB49,RESELLER
+adform.com,3283,RESELLER
+adingo.jp,32534,RESELLER
+adsinteractive.com,39993,RESELLER
+alaska-gaming.com,19878,RESELLER
+improvedigital.com,2584,RESELLER
+improvedigital.com,2603,RESELLER
+improvedigital.com,2604,RESELLER
+improvedigital.com,2605,RESELLER
+improvedigital.com,2606,RESELLER
+improvedigital.com,2607,RESELLER
+improvedigital.com,2609,RESELLER
+improvedigital.com,2610,RESELLER
+improvedigital.com,2611,RESELLER
+improvedigital.com,2612,RESELLER
+improvedigital.com,2613,RESELLER
+openx.com,562846767,RESELLER,6a698e2ec38604c6
+opera.com,pub12998959884416,RESELLER,55a0c5fd61378de3
+richaudience.com,O2hIZpokwO,RESELLER
+smartadserver.com,5363,RESELLER,060d053dcf45cbf3
