@@ -9291,3 +9291,10 @@ openx.com,562846767,RESELLER,6a698e2ec38604c6
 opera.com,pub12998959884416,RESELLER,55a0c5fd61378de3
 richaudience.com,O2hIZpokwO,RESELLER
 smartadserver.com,5363,RESELLER,060d053dcf45cbf3
+taurusx.com, 10000132-1223, DIRECT
+webeyemob.com, 10000132-1223, DIRECT
+caerulus.io, 3321-00246, DIRECT
+pubmatic.com, 163571, RESELLER, 5d62403b186f2ace
+betweendigital.com, 45611, RESELLER
+playdigo.com, 1987, RESELLER, 92011346d63d3c30
+video.unrulymedia.com, 475093422, RESELLER
