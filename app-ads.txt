@@ -9298,3 +9298,4 @@ pubmatic.com, 163571, RESELLER, 5d62403b186f2ace
 betweendigital.com, 45611, RESELLER
 playdigo.com, 1987, RESELLER, 92011346d63d3c30
 video.unrulymedia.com, 475093422, RESELLER
+tradplusad.com, ad981020f46ea1bd, DIRECT
