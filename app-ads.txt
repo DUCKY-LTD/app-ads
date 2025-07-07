@@ -9299,3 +9299,22 @@ betweendigital.com, 45611, RESELLER
 playdigo.com, 1987, RESELLER, 92011346d63d3c30
 video.unrulymedia.com, 475093422, RESELLER
 tradplusad.com, ad981020f46ea1bd, DIRECT
+loopme.com, 15575, RESELLER, 6c8d5f95897a5a3b
+toponad.com,16569723d4bfa4,RESELLER,1d49fe424a1a456d
+toponad.com,165a5011a17c2b,RESELLER,1d49fe424a1a456d
+limpid.tv, 203715, RESELLER
+media.net, 8CU1FFB49, RESELLER
+betweendigital.com, 44972, DIRECT
+video.unrulymedia.com, 146647607, RESELLER
+improvedigital.com, 2612, RESELLER
+improvedigital.com, 2603, RESELLER
+improvedigital.com, 2604, RESELLER
+improvedigital.com, 2605, RESELLER
+improvedigital.com, 2606, RESELLER
+improvedigital.com, 2607, RESELLER
+improvedigital.com, 2609, RESELLER
+improvedigital.com, 2610, RESELLER
+improvedigital.com, 2611, RESELLER
+improvedigital.com, 2613, RESELLER
+videoheroes.tv, 212732, RESELLER, 064bc410192443d8
+Contextweb.com ,562794,RESELLER,89ff185a4c4e857c
