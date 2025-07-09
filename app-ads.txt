@@ -9318,3 +9318,14 @@ improvedigital.com, 2611, RESELLER
 improvedigital.com, 2613, RESELLER
 videoheroes.tv, 212732, RESELLER, 064bc410192443d8
 Contextweb.com ,562794,RESELLER,89ff185a4c4e857c
+yandex.com, 106549109, DIRECT
+adform.com, 3035, RESELLER, 9f5210a2f0999e32
+showheroes.com, 6036, RESELLER
+adagio.io, 1514, RESELLER
+inmobi.com, 6dc038804add44ffa2d5f61854f6ab33, RESELLER, 83e75a7ae333ca9d
+adbro.me, eb76b782-9af7-4536-aac7-3d280f1f6652, RESELLER
+adyoulike.com, a2226c27fc2a6773f6a2b365e013513a, RESELLER, 4ad745ead2958bf7
+app-stock.com,558223, RESELLER, ed8c126ea5971415
+opera.com, pub12998959884416, RESELLER, 55a0c5fd61378de3
+dauup.com, 34191, RESELLER, 4daba13e2b0dfd92
+inmobi.com, f73add69216f42d9ba45940a548416d3, RESELLER, 83e75a7ae333ca9d
