@@ -9401,3 +9401,4 @@ freewheel.tv, 1607259, RESELLER
 lijit.com, 509119, RESELLER, fafdf38b16bf6b2b
 sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
 bidmachine.io, 100, RESELLER
+rubiconproject.com, 27496, DIRECT, 0bfd66d529a55807
