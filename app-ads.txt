@@ -9425,3 +9425,8 @@ themediagrid.com,NC7LXT,RESELLER,35d5010d7789b49d
 trustedstack.com,TSTKQ5827,RESELLER
 video.unrulymedia.com,290726769,RESELLER
 spinx.io, 1373698863, DIRECT
+pubnative.net, 1016564, DIRECT, d641df8625486a7b
+risecodes.com, 6880fc6af9acce0001953aa9, RESELLER
+smaato.com, 1100059375, RESELLER, 07bcf65f187117b4
+33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
+toponad.com,168230d6ca7f8b,RESELLER,1d49fe424a1a456d
