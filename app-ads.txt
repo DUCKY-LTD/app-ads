@@ -9470,3 +9470,14 @@ Media.net, 8CU27M373, RESELLER 
 adtonos.com, PUB1170773188, RESELLER 
 amplifier.audio, PUB1170773188, RESELLER
 smilewanted.com, 4601, RESELLER
+thejungletechnology.com, 1139, DIRECT
+adyugo.com, 1139, DIRECT
+pixelverge.com, 161008, DIRECT
+google.com, pub-9911740406682987, RESELLER, f08c47fec0942fa0
+adingo.jp, 32401, RESELLER
+carbonatix.com,14840966,RESELLER
+sabio.us, 100092, DIRECT, 96ed93aaa9795702
+opera.com,pub6843437470464,DIRECT,55a0c5fd61378de3
+lijit.com, 560797, DIRECT, fafdf38b16bf6b2b #SOVRN
+lijit.com, 560797-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
+uis.mobfox.com, 2444, RESELLER, 5529a3d1f59865be
