@@ -9489,3 +9489,35 @@ onlinemediasolutions.com, 29556, RESELLER, b3868b187e4b6402
 e-volution.ai, AJxF6R378a9M6CaTvK, RESELLER
 yellowhead.com, 67b9c0a1d2e345, RESELLER
 gitberry.com, 335100012, RESELLER
+freewheel.tv, 535395-r-524565, reseller
+lijit.com, 554656, reseller
+supply.colossusssp.com, 838, reseller
+showheroes.com, 6038, reseller
+onetag.com, 8bd233947b607f0, reseller
+freewheel.tv, sg1248339, reseller
+appnexus.com,15686,reseller, f5ab79cb980f11d1
+freewheel.tv, 534996-r-523319, reseller
+media.net, 8cuh46n56, reseller
+onetag.com, 61d88450bdb25bc,  reseller
+rubiconproject.com, 26980, direct, 0bfd66d529a55807
+freewheel.tv, 535395-r-523319, reseller
+lijit.com, 267257, reseller, fafdf38b16bf6b2b
+inmobi.com, dfe9a1f0c51b4d46a61d676e9f3a9d69, reseller, 83e75a7ae333ca9d
+freewheel.tv, 534996-r-524565, reseller
+trustedstack.com, tslau41q2, reseller
+adipolo.com, 102030 , direct
+appnexus.com,16912,reseller, f5ab79cb980f11d1
+instreamatic.com, 207, reseller
+targetbetter.com, 624654983,  reseller
+smaato.com, 1100059476, reseller, 07bcf65f187117b4
+programmaticx.ai, 124654983,  reseller, b42d42eb28400efa
+themediagrid.com, djqvcm,  direct, 35d5010d7789b49d
+conversantmedia.com, 100957, reseller
+improvedigital.com, 2558, reseller
+sonobi.com, 37dd19ad4a, reseller
+media.net, 8cuu43moj, direct
+adyoulike.com, 95dcbc06a550cd02bc6ad7371dd000c7, reseller
+rtbhouse.com, v4y3snbsel6fyc6mszdf, direct
+rubiconproject.com, 25512, reseller, 0bfd66d529a55807
+improvedigital.com , 2539, reseller
+bidmachine.io, 258, reseller
