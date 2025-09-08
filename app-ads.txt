@@ -9737,3 +9737,10 @@ pubmatic.com, 166965, RESELLER, 5d62403b186f2ace
 lijit.com, 569924, RESELLER, fafdf38b16bf6b2b #SOVRN
 themediagrid.com, XBYGOC, RESELLER, 35d5010d7789b49d
 triplelift.com, 8614, RESELLER, 6c33edb13117fd86
+eskimi.com,2020000859, RESELLER
+Media.net, 8CU27M373, RESELLER
+iqzone.com,IQ368,RESELLER
+adyoulike.com, 3ef396405a1fb0cd38c9439697bd03e9, RESELLER
+improvedigital.com,2624,RESELLER
+smoot.ai, 100107, RESELLER
+openx.com, 559911747, RESELLER, 6a698e2ec38604c6onetag.com, 87f58fe90234d0e, RESELLER
