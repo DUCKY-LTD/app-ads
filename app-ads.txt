@@ -9880,3 +9880,40 @@ webeyemob.com, 70608, RESELLER
 webeyemob.com, 80039, RESELLER
 yeahmobi.com, 5135063, RESELLER
 video.unrulymedia.com, 224534216, DIRECT 
+smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
+xandr.com, 16546, RESELLER
+sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
+grouprvn.com, 420212011, RESELLER
+openx.com, 541017750, RESELLER, 6a698e2ec38604c6
+blueseasx.com, 203613, RESELLER, 7998eac5087f6110
+copper6.com, 766114, RESELLER
+video.unrulymedia.com, 585054906, RESELLER
+thunder-monetize.com, 8221217003, RESELLER
+tradplusad.com, b3fca24bd11c1242, RESELLER
+admanmedia.com, 2242, RESELLER
+appnexus.com, 16244, RESELLER
+vidazoo.com, 66e04f5e4d7fd89d878d29d2, RESELLER, b6ada874b4d7d0b2
+visoon.de, 64393, RESELLER
+aralego.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+video.unrulymedia.com, 2743945877, RESELLER
+themediagrid.com, FALINO, RESELLER, 35d5010d7789b49d
+inmobi.com, 7798aa742d014cd79627bb67ec431379, RESELLER, 83e75a7ae333ca9d
+appnexus.com, 17234, RESELLER
+start.io, 150505487, RESELLER
+lijit.com, 546566, RESELLER, fafdf38b16bf6b2b
+thunder-monetize.com, 5257091605, RESELLER
+castify.ai, 1295184, RESELLER
+inmobi.com, 0c8e054083954c68a45044396a1c3df8, RESELLER, 83e75a7ae333ca9d
+prado.co, 14260, RESELLER
+lijit.com, 558045, RESELLER, fafdf38b16bf6b2b
+google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
+bid-matrix.com, f2c71a45ea149366, RESELLER
+appnexus.com, 1354, RESELLER
+risecodes.com, 66bca72035bff70001caa46f, RESELLER
+media.net, 8CU813E2H, RESELLER
+mango.mp, 323120, RESELLER
+app-stock.com, 384491, RESELLER
+ucfunnel.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
+taurusx.com, 80029, RESELLER
+adiiix.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
