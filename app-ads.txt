@@ -8054,7 +8054,6 @@ growzee.io, cd9d1950-1f84-4645-80f4-bdbaa23548a0, RESELLER
 adingenious.com, 75036, RESELLER
 carbonatix.com, 141073554, RESELLER
 sonobi.com, 45dd948092, RESELLER, d1a215d9eb5aee9e
-vungle.com,[yourVunglePublisherAccountID],DIRECT,c107d686becd2d77
 adiiix.com,3d9335d3,RESELLER
 admanmedia.com,20,RESELLER
 admanmedia.com,2248,RESELLER
