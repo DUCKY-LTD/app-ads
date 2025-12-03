@@ -11060,3 +11060,13 @@ nativo.com, 5804, RESELLER, 59521ca7cc5e9fee
 carambo.la, 914731582, RESELLER, 08a6b436f8183ac9
 spinx.io, 1373698871, RESELLER
 conversantmedia.com, 101145, RESELLER, 03113cd04947736d
+appnexus.com, 9726, DIRECT, f5ab79cb980f11d1
+appnexus.com, 12252, DIRECT
+bidease.com, bidease_seller_53, RESELLER
+indexexchange.com, 214076, RESELLER, 50b1c356f2c5c8fc
+loopme.com, 16697, DIRECT, 6c8d5f95897a5a3b
+loopme.com, 15759, RESELLER, 6c8d5f95897a5a3b
+onetag.com, 942f11d96ca6d70, RESELLER
+onetag.com, 6b859b96c564fbe, RESELLER
+pubmatic.com, 161831, DIRECT, 5d62403b186f2ace
+pubmatic.com, 160880, RESELLER, 5d62403b186f2ace
