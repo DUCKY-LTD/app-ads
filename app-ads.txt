@@ -11070,3 +11070,27 @@ onetag.com, 942f11d96ca6d70, RESELLER
 onetag.com, 6b859b96c564fbe, RESELLER
 pubmatic.com, 161831, DIRECT, 5d62403b186f2ace
 pubmatic.com, 160880, RESELLER, 5d62403b186f2ace
+playdigo.com, 1942, DIRECT, 92011346d63d3c30
+adagio.io, 1596, RESELLER
+33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
+conversantmedia.com, 100141, RESELLER
+e-planning.net, 83c06e81531537f4, RESELLER, c1ba615865ed87b2
+connectad.io, 456, RESELLER, 85ac85a30c93b3e5
+freewheel.tv, 536359-r-524565, RESELLER
+freewheel.tv, 536359-r-523319, RESELLER
+freewheel.tv, sg1251727, RESELLER
+freewheel.tv, 535354-r-524565, RESELLER
+freewheel.tv, 535354-r-523319, RESELLER
+lijit.com, 585769, RESELLER, fafdf38b16bf6b2b
+conversantmedia.com, 101151, RESELLER, 03113cd04947736d
+smaato.com, 1100059808, RESELLER, 07bcf65f187117b4
+dxkulture.com, 9830, RESELLER
+smartyads.com, 213, RESELLER, fd2bde0ff2e62c5d
+pubrevplus.com, 929034, DIRECT, 3f7b19a2c5d6804e
+pubrevplus.com, 929034, RESELLER, 3f7b19a2c5d6804e
+loopme.com, 14015, DIRECT, 6c8d5f95897a5a3b
+pubmatic.com, 163226, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 147491604186869377, RESELLER
+sabio.us, 100117, RESELLER, 96ed93aaa9795702
+lkqd.net, 1100053848, RESELLER, 59c49fa9598a0117
+risecodes.com, 67039d02e64cee0001b4057d, DIRECT
