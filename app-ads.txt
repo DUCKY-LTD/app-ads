@@ -11096,3 +11096,22 @@ sabio.us, 100117, RESELLER, 96ed93aaa9795702
 lkqd.net, 1100053848, RESELLER, 59c49fa9598a0117
 risecodes.com, 67039d02e64cee0001b4057d, DIRECT
 bidmachine.io, 1406, RESELLER
+kidoz.net, 15467, RESELLER, a109366414b7335e # Allow serving Kidoz ads on Prado SDK
+kidoz.net, 15127, RESELLER, a109366414b7335e
+kidoz.net, 15564, RESELLER, a109366414b7335e
+kidoz.net, 15568, RESELLER, a109366414b7335e
+kidoz.net, 15648, RESELLER, a109366414b7335e
+prado.co, 15127, RESELLER
+prado.co, 15564, RESELLER
+prado.co, 15648, RESELLER
+appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
+appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
+playwire.com, 1025000, RESELLER,
+danoler.com , 1355, RESELLER
+kelmak.com ,117-p101 , RESELLER
+rubiconproject.com, 27931, DIRECT, 0bfd66d529a55807
+admanmedia.com, 2325, RESELLER
+bidmachine.io, 1371, RESELLER
+bidmachine.io, 1372, RESELLER
+sharethrough.com, 3713, RESELLER, d53b998a7bd4ecd2
+nexverse.ai, 24335, RESELLER
