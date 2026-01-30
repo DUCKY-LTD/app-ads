@@ -11214,3 +11214,21 @@ xandr.com, 15769, RESELLER, f5ab79cb980f11d1
 xandr.com, 15840, RESELLER, f5ab79cb980f11d1
 yieldlab.net, 15465081, RESELLER
 zmaticoo.com, 5135535, RESELLER
+inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
+mindtos.com,mt0b219ff842ee3772, RESELLER
+bidease.com, bidease_seller_25, RESELLER
+triplelift.com,8784, RESELLER  , 6c33edb13117fd86
+oko.uk,a4eb11dd-9bc5-4d77-9877-71f69dcfc08f,RESELLER,b3511ffcafb23a32
+criteo.com, NC7LXT, RESELLER, 35d5010d7789b49d
+criteo.com, WS2D8N, RESELLER, 35d5010d7789b49d
+cgnl.io, 7001, RESELLER
+cgnl.io, 6185, RESELLER
+cignal.io, 7001, RESELLER
+cignal.io, 6185, RESELLER
+carambo.la, 914731121, RESELLER
+carambo.la, 914738127, RESELLER
+openx.com, 537140323, RESELLER, 6a698e2ec38604c6
+themediagrid.com, 8USKI6, RESELLER, 9fac4a4a87c2a44f
+e-planning.net,ecee0b96300f040e,RESELLER,c1ba615865ed87b2
+Media.net, 8CU675N41, RESELLER
+adyoulike.com, 19113f170392f279f86e9aa401ef3b57, RESELLER
