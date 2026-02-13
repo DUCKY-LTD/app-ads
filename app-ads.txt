@@ -11268,3 +11268,35 @@ betweendigital.com, 47095, DIRECT
 smilewanted.com, 5740, RESELLER
 media.net, 8CUF63MX7, RESELLER
 trustedstack.com, TS3MF8KJ3, RESELLER
+e-planning.net, 2f3a04630ba9ba3f, RESELLER, c1ba615865ed87b2
+yandex.com, 1079241, DIRECT
+yango-ads.com, 55753107, DIRECT
+yango-ads.com, 96804212, DIRECT
+yandex.com, 301151893, DIRECT
+dauup.com, 34142, RESELLER, 4daba13e2b0dfd92
+yandex.com, 66051405, DIRECT
+video.unrulymedia.com, 630415254, RESELLER
+yango-ads.com, 301151893, DIRECT
+yango-ads.com, 96934425, DIRECT
+app-stock.com, 509221, RESELLER, ed8c126ea5971415
+adyoulike.com, f3d16fa10382ca99dca498bd4e9659c4, RESELLER
+thebrave.io, 1234765, RESELLER, c25b2154543746ac
+apester.com, 0707, RESELLER
+playdigo.com, 1988, RESELLER, 92011346d63d3c30
+start.io, 168507669, RESELLER
+yango-ads.com, 66051405, DIRECT
+bigo.sg, 885, RESELLER
+yandex.com, 96804212, DIRECT
+yandex.com, 55753107, DIRECT
+taurusx.com, 80612, RESELLER
+yango-ads.com, 1079241, DIRECT
+lijit.com, 551525, RESELLER, fafdf38b16bf6b2b
+yango-ads.com, 106549109, DIRECT
+mangomob.net, 5000671969, RESELLER
+lijit.com, 535014, RESELLER, fafdf38b16bf6b2b
+yandex.com, 100711706, DIRECT
+azberry.com, 121011, RESELLER
+bidease.com, bidease_seller_49, RESELLER
+yango-ads.com, 100711706, DIRECT
+spinx.biz, 1373698890, RESELLER
+orbrx.ai, 8000869124, RESELLER
