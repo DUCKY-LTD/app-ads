@@ -134,6 +134,7 @@ facebook.com, 1798458517506743, DIRECT, c3e20eee3f780d68
 facebook.com, 1659010628866749, DIRECT, c3e20eee3f780d68
 facebook.com, 2064194721030278, DIRECT, c3e20eee3f780d68
 facebook.com, 1002538382375327, DIRECT, c3e20eee3f780d68
+facebook.com, 1383448840467147, DIRECT, c3e20eee3f780d68
 152media.com, 152, DIRECT
 152media.info, 152M238, RESELLER
 152media.info, 152M241, RESELLER
@@ -12166,3 +12167,18 @@ onetag.com,57e618150c70d90,RESELLER
 adagio.io,1227,RESELLER
 rubiconproject.com,27692,RESELLER,0bfd66d529a55807
 lunamedia.io,9bf12353-42d2-41a3-b624-dfd28f4daa7a,RESELLER,524ecb396915caaf
+sharethrough.com, 3232, RESELLER, d53b998a7bd4ecd2
+growintech.co, 102275, RESELLER, 9d8dfe5c6b00fb37
+blueseasx.com, 203625, RESELLER
+toponad.com, 167c6b2c1d02bd, RESELLER, 1d49fe424a1a456d
+rubiconproject.com, 15854, RESELLER
+pubnative.net, 1009458, RESELLER, d641df8625486a7b
+bidmachine.io, 1412, RESELLER
+sharethrough.com, 4322, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 4237, RESELLER, d53b998a7bd4ecd2
+start.io, 126412094, RESELLER
+smartadserver.com, 4456, RESELLER
+33across.com, 001pg00001dtxmwian, RESELLER
+sabio.us, 100160, RESELLER, 96ed93aaa9795702
+media.net, 8cu132ud6, RESELLER
+rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
