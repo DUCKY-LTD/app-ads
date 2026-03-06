@@ -12202,3 +12202,14 @@ sharethrough.com, zMvLLpo1, RESELLER, d53b998a7bd4ecd2
 triplelift.com, 14734-EB, RESELLER
 triplelift.com, 14742, RESELLER, 6c33edb13117fd86
 triplelift.com, 14751, RESELLER, 6c33edb13117fd86
+smartadserver.com, 5828-OB, RESELLER, 060d053dcf45cbf3
+video.unrulymedia.com, 144138083, RESELLER
+targetbetter.com, 82228, RESELLER
+sharethrough.com, 5828, RESELLER, d53b998a7bd4ecd2
+adyoulike.com, aff404dd1a704f379acae5190701c9c2, RESELLER
+smartadserver.com, 5828, RESELLER, 060d053dcf45cbf3
+programmaticx.ai, 84448, RESELLER, b42d42eb28400efa
+taurusx.com, 70079, RESELLER
+sharethrough.com, 5828-OB, RESELLER, d53b998a7bd4ecd2
+start.io, 197760873, RESELLER
+jcprog.com, pub-4518750432, RESELLER
