@@ -12266,7 +12266,7 @@ anzu.io, 5ecaa855b89805ae66adeae0, RESELLER
 onetag.com, 95b3718ec52c228, RESELLER
 iion.io, 10345, DIRECT
 rubiconproject.com, 28219, RESELLER, 0bfd66d529a55807
-take1ads.com, EARAAR2802, DIRECT
+take1ads.com, EARAAR2803, DIRECT
 instreamatic.com, 106, RESELLER
 pubmatic.com, 166699, RESELLER, 5d62403b186f2ace
 openx.com, 559250338, RESELLER, 6a698e2ec38604c6
@@ -12280,3 +12280,11 @@ xandr.com, 15984, RESELLER
 inmobi.com, 0a178da6350b4bfa8cf50d48e0683912, DIRECT, 83e75a7ae333ca9d
 smilewanted.com, 6016, RESELLER
 bidease.com, bidease_seller_26, RESELLER
+video.unrulymedia.com, 755432070, RESELLER
+video.unrulymedia.com,5127265468568773826,RESELLER,
+video.unrulymedia.com,2022906034,DIRECT,
+playwire.com, 1025000, RESELLER, 
+adform.com,2919,reseller,9f5210a2f0999e32
+selectmedia.asia, 645b5a31e427dc0b8704cfbc, RESELLER, e365c871a27c655d
+playwire.com, 1018531, RESELLER, 
+pubmatic.com,160552, RESELLER, 5d62403b186f2ace
