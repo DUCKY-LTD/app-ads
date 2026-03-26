@@ -12279,3 +12279,4 @@ pubmatic.com, 159302, RESELLER, 5d62403b186f2ace
 xandr.com, 15984, RESELLER
 inmobi.com, 0a178da6350b4bfa8cf50d48e0683912, DIRECT, 83e75a7ae333ca9d
 smilewanted.com, 6016, RESELLER
+bidease.com, bidease_seller_26, RESELLER
