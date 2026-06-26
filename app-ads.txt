@@ -13699,3 +13699,12 @@ onetag.com, 95b3718ec52c228, RESELLER
 rtbhouse.com, v9OtJDzCWTKAPdzbpmOI, RESELLER, 4f3b94578e85950c
 risecodes.com, 69c27ce4d35af000017c7c5d, RESELLER
 spinx.biz, 1373698903, RESELLER, 9f2711e9aaa9f992
+sharethrough.com, 5951, RESELLER, 060d053dcf45cbf3
+bidstark.com, 1139, DIRECT
+smartadserver.com, 5881, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5951, RESELLER, 060d053dcf45cbf3
+video.unrulymedia.com, 334617758, RESELLER, 98c21ef9a666c68b
+video.unrulymedia.com, 802014076, RESELLER, 98c21ef9a666c68b
+vidazoo.com, 69c258b91fc35e6ff64e1b21, RESELLER, b6ada874b4d7d0b2
+voisetech.com, 1415, RESELLER, 9009ef0379162448
+wecallmedia.com, 1056, RESELLER
