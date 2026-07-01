@@ -13709,3 +13709,11 @@ video.unrulymedia.com, 802014076, RESELLER, 98c21ef9a666c68b
 vidazoo.com, 69c258b91fc35e6ff64e1b21, RESELLER, b6ada874b4d7d0b2
 voisetech.com, 1415, RESELLER, 9009ef0379162448
 wecallmedia.com, 1056, RESELLER
+thunder-monetize.com, 3640566001, DIRECT
+thunder-monetize.com, 3798171666, DIRECT
+appsheep.com, 07e2cfc3-f620-42e8-8856-fb31228522be, DIRECT
+appsheep.com, a94e91b8-3759-4524-8a29-0bcbb532eea2, DIRECT
+openx.com, 564972066, DIRECT, 6a698e2ec38604c6
+nativo.com,6114,RESELLER,59521ca7cc5e9fee
+media.net, 8CA7BO5Y1, RESELLER, 818f58666cabc936
+media.net, 8CAOK5V3Y, RESELLER, 818f58666cabc936
