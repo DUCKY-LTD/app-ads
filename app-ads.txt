@@ -13717,3 +13717,43 @@ openx.com, 564972066, DIRECT, 6a698e2ec38604c6
 nativo.com,6114,RESELLER,59521ca7cc5e9fee
 media.net, 8CA7BO5Y1, RESELLER, 818f58666cabc936
 media.net, 8CAOK5V3Y, RESELLER, 818f58666cabc936
+betweendigital.com, 46454, RESELLER
+nativo.com, 6152, RESELLER, 59521ca7cc5e9fee
+33across.com, 001Pg00001aSzL4IAK, DIRECT, bbea06d9c4d2853c
+triplelift.com, 14805, RESELLER, 6c33edb13117fd86
+orbrx.ai, 8100969121, RESELLER
+sharethrough.com, jLTNbU7J, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100060225, RESELLER, 07bcf65f187117b4
+inmobi.com, cf78669cd16d4cc9af0c3705b697564c, RESELLER, 83e75a7ae333ca9d
+media.net, 8CA8O7D3V, RESELLER
+startapp.com, 157238820, RESELLER
+mangomob.net, 5000672004, RESELLER
+rubiconproject.com, 28191, RESELLER, 0bfd66d529a55807
+conversantmedia.com, 101145, RESELLER
+appnexus.com, 14416, DIRECT, f5ab79cb980f11d1
+sabio.us, 100229, DIRECT, 96ed93aaa9795702
+adsmovil.com, JKHGrlkjds47, DIRECT
+adsmartx.ai, 729329, RESELLER
+openx.com, 537100188, RESELLER, 6a698e2ec3
+rtbhouse.com, 7VQaL76PBynk7Hu4jror, RESELLER
+zmaticoo.com, 843083, RESELLER
+hax.ortb.net, 656609, DIRECT
+pubmatic.com, 167100, RESELLER, 5d62403b186f2ace
+adsyield.com, 2926, RESELLER
+pwr-games.com, 843074, RESELLER
+bidinfluence.com, 700072, RESELLER
+sonobi.com, 4d1a8bf76a, DIRECT, d1a215d9eb5aee9e
+axis-marketplace.com, 332, RESELLER
+zetaglobal.net, 735, RESELLER
+pwr-games.com, 843077, RESELLER
+triplelift.com, 10504, RESELLER, 6c33edb13117fd86
+loopme.com, 15685, RESELLER, 6c8d5f95897a5a3b
+spotim.market, 4d5014f8da11fc0a70ebbda5d4537935, RESELLER, 077e5f709d15bdbb
+inventorypartnerdomain=mangomob.net
+admatic.de, ade-pub-1450313877, RESELLER
+start.io, 157238820, RESELLER
+openx.com, 561436865, RESELLER, 6a698e2ec38604c6
+adagio.io, 1571, RESELLER
+antipodesdigital.com, 330, RESELLER
+flashb.id, a4a72c47-7f3e-597d-b218-b056a4735a71, RESELLER
+adagio.io, 1436, RESELLER
