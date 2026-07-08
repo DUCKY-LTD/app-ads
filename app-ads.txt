@@ -13759,3 +13759,27 @@ antipodesdigital.com, 330, RESELLER
 flashb.id, a4a72c47-7f3e-597d-b218-b056a4735a71, RESELLER
 adagio.io, 1436, RESELLER
 risecodes.com, 69f733811f58ff0001446b76, RESELLER
+media.net, 8CUUQ286L, RESELLER, 818f58666cabc936
+video.unrulymedia.com, 475093422, RESELLER, 98c21ef9a666c68b
+media.net, 8CUMM4JFW, RESELLER, 818f58666cabc936
+video.unrulymedia.com, 158727213, RESELLER, 98c21ef9a666c68b
+admanmedia.com, 2411, RESELLER
+video.unrulymedia.com, 2444764291, RESELLER, 98c21ef9a666c68b
+admanmedia.com, 647, RESELLER
+video.unrulymedia.com, 201313863, RESELLER, 98c21ef9a666c68b
+smaato.com, 1100059831, RESELLER, 07bcf65f187117b4
+yango-ads.com, 327123643, DIRECT
+bold-win.com, 1145, RESELLER, 71746737d0bab951
+yandex.com, 327123643, DIRECT
+iion.io, 10115, RESELLER
+zmaticoo.com, 5135375, RESELLER
+pubnative.net, 1017356, RESELLER, d641df8625486a7b
+video.unrulymedia.com, 3948367200, RESELLER, 98c21ef9a666c68b
+video.unrulymedia.com, 894246135, RESELLER, 98c21ef9a666c68b
+video.unrulymedia.com, 630415254, RESELLER, 98c21ef9a666c68b
+media.net, 8CU47MDK1, RESELLER, 818f58666cabc936
+adform.com, 2831, RESELLER, 9f5210a2f0999e32
+anzu.io, 6968c4bda0340c3bb11175aa, RESELLER
+apester.com, 1105, RESELLER
+pubnative.net, 1017792, RESELLER, d641df8625486a7b
+bidmachine.io, 200, RESELLER
