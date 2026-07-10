@@ -13783,3 +13783,4 @@ anzu.io, 6968c4bda0340c3bb11175aa, RESELLER
 apester.com, 1105, RESELLER
 pubnative.net, 1017792, RESELLER, d641df8625486a7b
 bidmachine.io, 200, RESELLER
+google.com, pub-1088508191391776, RESELLER, f08c47fec0942fa0
