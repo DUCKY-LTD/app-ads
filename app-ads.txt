@@ -14527,3 +14527,48 @@ smilewanted.com, 5983, RESELLER
 algorix.co, 604550,RESELLER, 5b394c12fea27a1d 
 aniview.com, 69d24331b4476e4a300e1584, RESELLER, 78b21b97965ec3f8
 oko.uk,e2d3e33c-9911-477a-8ae2-f059870c67c0,RESELLER,b3511ffcafb23a32
+smilewanted.com, 5983, RESELLER
+algorix.co, 604550,RESELLER, 5b394c12fea27a1d 
+aniview.com, 69d24331b4476e4a300e1584, RESELLER, 78b21b97965ec3f8
+oko.uk,e2d3e33c-9911-477a-8ae2-f059870c67c0,RESELLER,b3511ffcafb23a32
+smartadserver.com,5363,RESELLER
+Prequel.tv,1010,DIRECT
+rubiconproject.com,26384,RESELLER,0bfd66d529a55807
+improvedigital.com,2193,RESELLER
+improvedigital.com,1880,RESELLER
+improvedigital.com,1150,RESELLER
+lijit.com,566254,RESELLER,fafdf38b16bf6b2b
+conversantmedia.com,100432,RESELLER,03113cd04947736d
+adagio.io,1643,RESELLER
+trustedstack.com,TS122JAF1,RESELLER
+onetag.com,7519b266468320e,RESELLER
+vdo.ai,5751,DIRECT
+atlas5.co,5751,DIRECT
+walletcircle.co,5751,DIRECT
+risecodes.com,670135d2e64cee0001b3f010,DIRECT
+incrementx.com,50003,DIRECT,8728b7e97e589da4
+nobid.io,219137,DIRECT
+richaudience.com,1fsNorHWpU,RESELLER
+aniview.com,68caaf49b07702ddc30e5038,RESELLER,78b21b97965ec3f8
+volantisdigital.com,772859,DIRECT
+Pubmatic.com,165202,RESELLER,5d62403b186f2ace
+sharethrough.com,OjwJOhaP,RESELLER,d53b998a7bd4ecd2
+lijit.com,271453,RESELLER,fafdf38b16bf6b2b
+smartadserver.com,2933,RESELLER
+sharethrough.com,2933,RESELLER,d53b998a7bd4ecd2
+rixengine.com,130200,DIRECT
+rixengine.com,130201,DIRECT
+theappspark.com,pub_20160,DIRECT
+theappspark.com,pub_20161,DIRECT
+pubmatic.com,168141,RESELLER,5d62403b186f2ace
+mobupps.com,c74d97b01eae257e44aa9d5bade97baf33237,DIRECT
+video.unrulymedia.com,1738113756,RESELLER
+richaudience.com,8DQuYgekqp,RESELLER
+anzu.io,69a01331e82ac6eac1054bf7,RESELLER,1c1b7acf4992136c
+smilewanted.com,4766,RESELLER
+adagio.io,1590,RESELLER
+smartyads.com,980,RESELLER,fd2bde0ff2e62c5d
+adwmg.com,100723,RESELLER,c9688a22012618e7
+powerbeans.cloud,965086472,RESELLER
+onetag.com,94de8707739257c,RESELLER
+bematterfull.com,90337253,RESELLER
