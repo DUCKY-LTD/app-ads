@@ -14527,10 +14527,6 @@ smilewanted.com, 5983, RESELLER
 algorix.co, 604550,RESELLER, 5b394c12fea27a1d 
 aniview.com, 69d24331b4476e4a300e1584, RESELLER, 78b21b97965ec3f8
 oko.uk,e2d3e33c-9911-477a-8ae2-f059870c67c0,RESELLER,b3511ffcafb23a32
-smilewanted.com, 5983, RESELLER
-algorix.co, 604550,RESELLER, 5b394c12fea27a1d 
-aniview.com, 69d24331b4476e4a300e1584, RESELLER, 78b21b97965ec3f8
-oko.uk,e2d3e33c-9911-477a-8ae2-f059870c67c0,RESELLER,b3511ffcafb23a32
 smartadserver.com,5363,RESELLER
 Prequel.tv,1010,DIRECT
 rubiconproject.com,26384,RESELLER,0bfd66d529a55807
@@ -14572,3 +14568,7 @@ adwmg.com,100723,RESELLER,c9688a22012618e7
 powerbeans.cloud,965086472,RESELLER
 onetag.com,94de8707739257c,RESELLER
 bematterfull.com,90337253,RESELLER
+appsheep.com, 07e2cfc3f62042e88856fb31228522be, DIRECT
+appsheep.com, a94e91b8375945248a290bcbb532eea2, DIRECT
+adagio.io, 1700, RESELLER
+adagio.io, 1700-OB, RESELLER
