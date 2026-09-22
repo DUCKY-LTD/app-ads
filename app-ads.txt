@@ -14673,3 +14673,4 @@ verve.com, 1016803, RESELLER, 0c8f5958fc2d6270
 rubiconproject.com, 28767, RESELLER, 0bfd66d529a55807
 pubmatic.com, 168141, RESELLER, 5d62403b186f2ace
 theappspark.com, 38135, RESELLER
+pubnative.net, 1018289, RESELLER, d641df8625486a7b
