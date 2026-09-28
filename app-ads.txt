@@ -14674,3 +14674,5 @@ rubiconproject.com, 28767, RESELLER, 0bfd66d529a55807
 pubmatic.com, 168141, RESELLER, 5d62403b186f2ace
 theappspark.com, 38135, RESELLER
 pubnative.net, 1018289, RESELLER, d641df8625486a7b
+google.com, pub-7112055678212370, DIRECT, f08c47fec0942fa0
+google.com, pub-3803436775068007, DIRECT, f08c47fec0942fa0
