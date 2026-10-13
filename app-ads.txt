@@ -15530,3 +15530,5 @@ onetag.com, 5649f68000b2f63, RESELLER
 risecodes.com, 680b33a1fc57d10001c035e1, RESELLER
 pubmatic.com, 156559, RESELLER, 5d62403b186f2ace  #oRTB
 triplelift.com, 14800, RESELLER
+bigo.sg, qyfoptvec9, RESELLER
+video.unrulymedia.com, 841707281, RESELLER, 98c21ef9a666c68b
