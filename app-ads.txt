@@ -15536,3 +15536,45 @@ pubmatic.com, 156559, RESELLER, 5d62403b186f2ace  #oRTB
 triplelift.com, 14800, RESELLER
 bigo.sg, qyfoptvec9, RESELLER
 video.unrulymedia.com, 841707281, RESELLER, 98c21ef9a666c68b
+anzu.io, 6ad10a0c3a29dbdf3eb914a3, DIRECT, 1c1b7acf4992136c
+yahoo.com,100067,RESELLER
+seedtag.com,6ad123b6c0c49c0441747a88,RESELLER
+media.net,8cu59iu47,RESELLER
+pubnative.net,1007384,RESELLER,d641df8625486a7b
+ssp.cadent.com,1805,RESELLER,1e1d41537f7cad7f
+emxdgt.com,1805,RESELLER,1e1d41537f7cad7f
+video.unrulymedia.com,939308106,RESELLER
+taurusx.com,80644,RESELLER
+mobupps.com,c74d97b01eae257e44aa9d5bade97baf32926,RESELLER
+adyoulike.com,3323ea5ad6781cb791c7ef36eef9bc71,RESELLER
+bidease.com,bidease_seller_30,RESELLER
+thebrave.io,1234693,RESELLER,c25b2154543746ac
+ogury.com,07a32638-84fc-4fcc-83e6-31b4ae44d49b,RESELLER
+smilewanted.com,5932,RESELLER
+e-planning.net,aecc3f1e55738088,RESELLER,c1ba615865ed87b2
+adsinteractive.com,411211,RESELLER
+bid-matrix.com,1a8d308594c14f9b,RESELLER
+chocolateplatform.com,22332,RESELLER
+toponad.com,16952276e6b818,RESELLER,1d49fe424a1a456d
+zmaticoo.com,114143,RESELLER
+algorix.co,604621,RESELLER,5b394c12fea27a1d
+richaudience.com,r7dayszfzq,RESELLER
+onetag.com,8e001726ed9976c,RESELLER
+ssp.iqiyi.net,1049,RESELLER
+aceex.io,2753,RESELLER
+risecodes.com,65509b2e58df6d00013c42a7,RESELLER
+copper6.com,766235,RESELLER
+bidstrade.com,8725,RESELLER
+uis.mobfox.com,2588,RESELLER,5529a3d1f59865be
+tradplusad.com,78111e57437abea7,RESELLER
+tenxads.com,2058,RESELLER
+gitberry.com,615100021,RESELLER
+admatic.com.tr,ade-pub-360095241,RESELLER
+gravite.net,363e5216d97c5d3a1b0b8bed7a5929b0,RESELLER
+eskimi.com,2020000006,RESELLER
+improvedigital.com,1860,RESELLER
+bidfuse.com,271,RESELLER
+kidoz.net,15787,RESELLER
+axis-marketplace.com,15159,RESELLER
+namaglobal.net,310654,RESELLER
+antipodesdigital.com,ad0021,RESELLER
