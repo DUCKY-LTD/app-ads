@@ -15535,7 +15535,6 @@ pubmatic.com, 156559, RESELLER, 5d62403b186f2ace  #oRTB
 triplelift.com, 14800, RESELLER
 bigo.sg, qyfoptvec9, RESELLER
 video.unrulymedia.com, 841707281, RESELLER, 98c21ef9a666c68b
-anzu.io, 6ad10a0c3a29dbdf3eb914a3, DIRECT, 1c1b7acf4992136c
 yahoo.com,100067,RESELLER
 seedtag.com,6ad123b6c0c49c0441747a88,RESELLER
 media.net,8cu59iu47,RESELLER
