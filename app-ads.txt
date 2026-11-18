@@ -16029,3 +16029,11 @@ video.unrulymedia.com, 876890970, RESELLER
 video.unrulymedia.com, 360589677, RESELLER
 visiblemeasures.com, 2008VM, RESELLER
 vrtcal.com, 557, DIRECT, c6daee9168853e2d
+eskimi.com, 2020000859, RESELLER
+gravite.net, 388f97e0b3a9618ba9c167f9c78b1684, RESELLER, b3bb5a9415a362a1
+inmobi.com, 464f6eb023b54063b93db62934eb576f, RESELLER, 83e75a7ae333ca9d
+bematterfull.com, 6413337f-ece2-4ac4-928a-77cce241d8e7, RESELLER
+video.unrulymedia.com, 308885445, RESELLER
+flashb.id, 1da82159-2b50-5fb2-87d7-1ed7fa52a44d, RESELLER
+adform.com, 3125, RESELLER
+vidoomy.com, 4661610, RESELLER
